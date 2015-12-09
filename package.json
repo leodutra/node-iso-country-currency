@@ -1,7 +1,7 @@
 {
-  "name": "UNECE-subdivisions-scrapper",
+  "name": "ISO3166-scrapper",
   "version": "0.1.0",
-  "description": "Scrap UNECE listed subdivisions",
+  "description": "Scrap ISO3166-1 Alpha 2 and ISO3166-2 data to JSON",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
