@@ -78,7 +78,7 @@ request('www.unece.org', '/cefact/locode/subdivisions.html', (source) => {
 
 			 	if (--asyncCount === 0) {
 
-			 		fs.writeFile("ISO-3361-2.json", JSON.stringify(countries, null, 4), function(err) {
+			 		fs.writeFile("ISO-3361.json", JSON.stringify(countries, null, 4), function(err) {
 					    if(err) {
 					        return console.log(err);
 					    }
