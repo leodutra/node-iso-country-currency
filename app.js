@@ -1,6 +1,6 @@
 
 import UNECEScrapper from './lib/UNECEScrapper';
-import * as fs from 'fs';
+import fs from 'fs';
 
 new UNECEScrapper().scrapRemoteData((data) => {
 
