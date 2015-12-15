@@ -1,11 +1,11 @@
 
-import UNECEScrapper from './lib/UNECEScrapper';
+import ISO3361CountryScrapper from './lib/ISO3361CountryScrapper';
 import ISO4717CurrencyScrapper from './lib/ISO4717CurrencyScrapper';
 import fs from 'fs';
 
 console.log('SCRAPPING STARTED')
 
-UNECEScrapper.scrapRemoteData((data) => {
+ISO3361CountryScrapper.scrapRemoteData((data) => {
 
 	fs.writeFile("ISO-3361.json", JSON.stringify(data, null, 4), (err) => {
 
