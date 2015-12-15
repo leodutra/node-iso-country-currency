@@ -12,12 +12,12 @@ gulp.task('compile-libs', () => {
   return gulp.src("lib/**")
     .pipe(babel(BABEL_PRESETS))
     .pipe(uglify())
-    .pipe(gulp.dest("dist/lib"));
+    .pipe(gulp.dest("es5/lib"));
 });
 
 gulp.task("default", ['compile-libs'], () => {
   return gulp.src("app.js")
     .pipe(babel(BABEL_PRESETS))
     .pipe(uglify())
-    .pipe(gulp.dest("dist"));
+    .pipe(gulp.dest("es5"));
 });
