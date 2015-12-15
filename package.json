@@ -6,7 +6,8 @@
     "start": "node es5/app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "npm run build",
-    "build": "node node_modules/gulp/bin/gulp.js"
+    "build": "node node_modules/gulp/bin/gulp.js",
+    "jit": "npm run build && npm start"
   },
   "author": "leodutra",
   "license": "MIT",
