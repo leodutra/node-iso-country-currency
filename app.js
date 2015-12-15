@@ -9,7 +9,6 @@ console.log('SCRAPPING STARTED')
 let iso3361
 let iso4717
 
-
 ISO3361CountryScrapper.scrapRemoteData(data => {
 	iso3361 = data
 	console.log("SUCCESSFUL ISO-3361 SCRAPPING!")
@@ -41,6 +40,5 @@ function merge() {
 
 			console.log("SUCCESSFUL ISO-4717 INTO ISO-3361 MERGING!")
 
-			console.log("CHECK \"out\" FOLDER")
 	});
 }
