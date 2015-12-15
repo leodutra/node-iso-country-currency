@@ -1,4 +1,3 @@
 node_modules/
-ISO-3361.json
-ISO-4717.json
-dist/
+out/
+es5/
