@@ -3,6 +3,8 @@ import UNECEScrapper from './lib/UNECEScrapper';
 import ISO4717CurrencyScrapper from './lib/ISO4717CurrencyScrapper';
 import fs from 'fs';
 
+console.log('SCRAPPING STARTED')
+
 UNECEScrapper.scrapRemoteData((data) => {
 
 	fs.writeFile("ISO-3361.json", JSON.stringify(data, null, 4), (err) => {
@@ -11,7 +13,7 @@ UNECEScrapper.scrapRemoteData((data) => {
 					return console.log(err);
 			}
 
-			console.log("ISO-3361 SCRAP SUCCESSFUL!");
+			console.log("SUCCESSFUL ISO-3361 SCRAPPING!");
 	});
 });
 
@@ -23,6 +25,6 @@ ISO4717CurrencyScrapper.scrapRemoteData((data) => {
 					return console.log(err);
 			}
 
-			console.log("ISO-4717 SCRAP SUCCESSFUL!");
+			console.log("SUCCESSFUL ISO-4717 SCRAPPING!");
 	});
 });
