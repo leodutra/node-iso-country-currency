@@ -1,6 +1,6 @@
 Node.js ISO scrappers
 ====================
-*Scraps ISO3166 and ISO4717 data to JSON using only Node.js*
+**Scraps ISO3166 and ISO4717 data to JSON using only Node.js**
 
 Running
 -------
