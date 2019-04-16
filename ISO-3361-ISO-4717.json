@@ -210,20 +210,20 @@
         ],
         "currencies": [
             {
+                "entity": "AFGHANISTAN",
                 "currency": "Afghani",
                 "alphabeticCode": "AFN",
                 "numericCode": "971",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "AFGHANISTAN",
                 "currency": "Afghani",
                 "alphabeticCode": "AFA",
                 "numericCode": "004",
                 "minorUnit": "",
-                "withdrawalDate": "2003-01",
-                "remark": ""
+                "withdrawalDate": "2003-01"
             }
         ]
     },
@@ -233,20 +233,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "ÅLAND ISLANDS",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ÅLAND ISLANDS",
                 "currency": "Markka",
                 "alphabeticCode": "FIM",
                 "numericCode": "246",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -473,20 +473,20 @@
         ],
         "currencies": [
             {
+                "entity": "ALBANIA",
                 "currency": "Lek",
                 "alphabeticCode": "ALL",
                 "numericCode": "008",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ALBANIA",
                 "currency": "Old Lek",
                 "alphabeticCode": "ALK",
-                "numericCode": "",
+                "numericCode": "008",
                 "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
+                "withdrawalDate": "1989-12"
             }
         ]
     },
@@ -785,12 +785,12 @@
         ],
         "currencies": [
             {
+                "entity": "ALGERIA",
                 "currency": "Algerian Dinar",
                 "alphabeticCode": "DZD",
                 "numericCode": "012",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -800,12 +800,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "AMERICAN SAMOA",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -858,36 +858,36 @@
         ],
         "currencies": [
             {
+                "entity": "ANDORRA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ANDORRA",
                 "currency": "Andorran Peseta",
                 "alphabeticCode": "ADP",
                 "numericCode": "020",
                 "minorUnit": "",
-                "withdrawalDate": "2003-07",
-                "remark": ""
+                "withdrawalDate": "2003-07"
             },
             {
+                "entity": "ANDORRA",
                 "currency": "Spanish Peseta",
                 "alphabeticCode": "ESP",
                 "numericCode": "724",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             },
             {
+                "entity": "ANDORRA",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -1006,36 +1006,36 @@
         ],
         "currencies": [
             {
+                "entity": "ANGOLA",
                 "currency": "Kwanza",
                 "alphabeticCode": "AOA",
                 "numericCode": "973",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ANGOLA",
                 "currency": "Kwanza",
                 "alphabeticCode": "AOK",
-                "numericCode": "",
+                "numericCode": "024",
                 "minorUnit": "",
-                "withdrawalDate": "1991-03",
-                "remark": ""
+                "withdrawalDate": "1991-03"
             },
             {
+                "entity": "ANGOLA",
                 "currency": "New Kwanza",
                 "alphabeticCode": "AON",
                 "numericCode": "024",
                 "minorUnit": "",
-                "withdrawalDate": "2000-02",
-                "remark": ""
+                "withdrawalDate": "2000-02"
             },
             {
+                "entity": "ANGOLA",
                 "currency": "Kwanza Reajustado",
                 "alphabeticCode": "AOR",
                 "numericCode": "982",
                 "minorUnit": "",
-                "withdrawalDate": "2000-02",
-                "remark": ""
+                "withdrawalDate": "2000-02"
             }
         ]
     },
@@ -1045,12 +1045,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "ANGUILLA",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -1060,12 +1060,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "ANTARCTICA",
                 "currency": "No universal currency",
                 "alphabeticCode": "",
                 "numericCode": "",
                 "minorUnit": "",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -1124,12 +1124,12 @@
         ],
         "currencies": [
             {
+                "entity": "ANTIGUA AND BARBUDA",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -1284,36 +1284,36 @@
         ],
         "currencies": [
             {
+                "entity": "ARGENTINA",
                 "currency": "Argentine Peso",
                 "alphabeticCode": "ARS",
                 "numericCode": "032",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ARGENTINA",
                 "currency": "Austral",
                 "alphabeticCode": "ARA",
                 "numericCode": "032",
                 "minorUnit": "",
-                "withdrawalDate": "1992-01",
-                "remark": ""
+                "withdrawalDate": "1992-01"
             },
             {
+                "entity": "ARGENTINA",
                 "currency": "Peso Argentino",
                 "alphabeticCode": "ARP",
                 "numericCode": "032",
                 "minorUnit": "",
-                "withdrawalDate": "1985-07",
-                "remark": ""
+                "withdrawalDate": "1985-07"
             },
             {
+                "entity": "ARGENTINA",
                 "currency": "Peso",
                 "alphabeticCode": "ARY",
-                "numericCode": "",
+                "numericCode": "032",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             }
         ]
     },
@@ -1390,20 +1390,20 @@
         ],
         "currencies": [
             {
+                "entity": "ARMENIA",
                 "currency": "Armenian Dram",
                 "alphabeticCode": "AMD",
                 "numericCode": "051",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ARMENIA",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1994-08",
-                "remark": ""
+                "withdrawalDate": "1994-08"
             }
         ]
     },
@@ -1413,12 +1413,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "ARUBA",
                 "currency": "Aruban Florin",
                 "alphabeticCode": "AWG",
                 "numericCode": "533",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -1477,12 +1477,12 @@
         ],
         "currencies": [
             {
+                "entity": "AUSTRALIA",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -1547,20 +1547,20 @@
         ],
         "currencies": [
             {
+                "entity": "AUSTRIA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "AUSTRIA",
                 "currency": "Schilling",
                 "alphabeticCode": "ATS",
                 "numericCode": "040",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -2039,36 +2039,36 @@
         ],
         "currencies": [
             {
-                "currency": "Azerbaijanian Manat",
+                "entity": "AZERBAIJAN",
+                "currency": "Azerbaijan Manat",
                 "alphabeticCode": "AZN",
                 "numericCode": "944",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "AZERBAIJAN",
                 "currency": "Azerbaijan Manat",
                 "alphabeticCode": "AYM",
                 "numericCode": "945",
                 "minorUnit": "",
-                "withdrawalDate": "2005-10",
-                "remark": ""
+                "withdrawalDate": "2005-10"
             },
             {
+                "entity": "AZERBAIJAN",
                 "currency": "Azerbaijanian Manat",
                 "alphabeticCode": "AZM",
                 "numericCode": "031",
                 "minorUnit": "",
-                "withdrawalDate": "2005-12",
-                "remark": ""
+                "withdrawalDate": "2005-12"
             },
             {
+                "entity": "AZERBAIJAN",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1994-08",
-                "remark": ""
+                "withdrawalDate": "1994-08"
             }
         ]
     },
@@ -2268,16 +2268,6 @@
                 "subdivisionName": "West Grand Bahama",
                 "subdivisionLevel": "District"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "Bahamian Dollar",
-                "alphabeticCode": "BSD",
-                "numericCode": "044",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -2317,12 +2307,12 @@
         ],
         "currencies": [
             {
+                "entity": "BAHRAIN",
                 "currency": "Bahraini Dinar",
                 "alphabeticCode": "BHD",
                 "numericCode": "048",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -2717,12 +2707,12 @@
         ],
         "currencies": [
             {
+                "entity": "BANGLADESH",
                 "currency": "Taka",
                 "alphabeticCode": "BDT",
                 "numericCode": "050",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -2799,12 +2789,12 @@
         ],
         "currencies": [
             {
+                "entity": "BARBADOS",
                 "currency": "Barbados Dollar",
                 "alphabeticCode": "BBD",
                 "numericCode": "052",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -2857,28 +2847,36 @@
         ],
         "currencies": [
             {
-                "currency": "Belarussian Ruble",
-                "alphabeticCode": "BYR",
-                "numericCode": "974",
-                "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "entity": "BELARUS",
+                "currency": "Belarusian Ruble",
+                "alphabeticCode": "BYN",
+                "numericCode": "933",
+                "minorUnit": "2",
+                "withdrawalDate": ""
             },
             {
-                "currency": "Belarussian Ruble",
+                "entity": "BELARUS",
+                "currency": "Belarusian Ruble",
                 "alphabeticCode": "BYB",
                 "numericCode": "112",
                 "minorUnit": "",
-                "withdrawalDate": "2001-01",
-                "remark": ""
+                "withdrawalDate": "2001-01"
             },
             {
+                "entity": "BELARUS",
+                "currency": "Belarusian Ruble",
+                "alphabeticCode": "BYR",
+                "numericCode": "974",
+                "minorUnit": "",
+                "withdrawalDate": "2017-01"
+            },
+            {
+                "entity": "BELARUS",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1994-06",
-                "remark": ""
+                "withdrawalDate": "1994-06"
             }
         ]
     },
@@ -2967,36 +2965,36 @@
         ],
         "currencies": [
             {
+                "entity": "BELGIUM",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "BELGIUM",
                 "currency": "Convertible Franc",
                 "alphabeticCode": "BEC",
                 "numericCode": "993",
                 "minorUnit": "",
-                "withdrawalDate": "1990-03",
-                "remark": ""
+                "withdrawalDate": "1990-03"
             },
             {
+                "entity": "BELGIUM",
                 "currency": "Belgian Franc",
                 "alphabeticCode": "BEF",
                 "numericCode": "056",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             },
             {
+                "entity": "BELGIUM",
                 "currency": "Financial Franc",
                 "alphabeticCode": "BEL",
                 "numericCode": "992",
                 "minorUnit": "",
-                "withdrawalDate": "1990-03",
-                "remark": ""
+                "withdrawalDate": "1990-03"
             }
         ]
     },
@@ -3043,12 +3041,12 @@
         ],
         "currencies": [
             {
+                "entity": "BELIZE",
                 "currency": "Belize Dollar",
                 "alphabeticCode": "BZD",
                 "numericCode": "084",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3131,12 +3129,12 @@
         ],
         "currencies": [
             {
+                "entity": "BENIN",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3146,12 +3144,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "BERMUDA",
                 "currency": "Bermudian Dollar",
                 "alphabeticCode": "BMD",
                 "numericCode": "060",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3282,20 +3280,20 @@
         ],
         "currencies": [
             {
-                "currency": "Ngultrum",
-                "alphabeticCode": "BTN",
-                "numericCode": "064",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "BHUTAN",
                 "currency": "Indian Rupee",
                 "alphabeticCode": "INR",
                 "numericCode": "356",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "BHUTAN",
+                "currency": "Ngultrum",
+                "alphabeticCode": "BTN",
+                "numericCode": "064",
+                "minorUnit": "2",
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3356,6 +3354,24 @@
                 "ISO_3166_2_short": "T",
                 "subdivisionName": "Tarija",
                 "subdivisionLevel": "Department"
+            }
+        ],
+        "currencies": [
+            {
+                "entity": "BOLIVIA (PLURINATIONAL STATE OF)",
+                "currency": "Boliviano",
+                "alphabeticCode": "BOB",
+                "numericCode": "068",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "BOLIVIA (PLURINATIONAL STATE OF)",
+                "currency": "Mvdol",
+                "alphabeticCode": "BOV",
+                "numericCode": "984",
+                "minorUnit": "2",
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3468,20 +3484,20 @@
         ],
         "currencies": [
             {
+                "entity": "BOSNIA AND HERZEGOVINA",
                 "currency": "Convertible Mark",
                 "alphabeticCode": "BAM",
                 "numericCode": "977",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "BOSNIA AND HERZEGOVINA",
                 "currency": "Dinar",
                 "alphabeticCode": "BAD",
                 "numericCode": "070",
                 "minorUnit": "",
-                "withdrawalDate": "1997-07",
-                "remark": ""
+                "withdrawalDate": "1998-07"
             }
         ]
     },
@@ -3546,12 +3562,12 @@
         ],
         "currencies": [
             {
+                "entity": "BOTSWANA",
                 "currency": "Pula",
                 "alphabeticCode": "BWP",
                 "numericCode": "072",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3561,12 +3577,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "BOUVET ISLAND",
                 "currency": "Norwegian Krone",
                 "alphabeticCode": "NOK",
                 "numericCode": "578",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -3739,69 +3755,59 @@
         ],
         "currencies": [
             {
+                "entity": "BRAZIL",
                 "currency": "Brazilian Real",
                 "alphabeticCode": "BRL",
                 "numericCode": "986",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "BRAZIL",
                 "currency": "Cruzeiro",
                 "alphabeticCode": "BRB",
-                "numericCode": "",
+                "numericCode": "076",
                 "minorUnit": "",
-                "withdrawalDate": "1986-03",
-                "remark": ""
+                "withdrawalDate": "1986-03"
             },
             {
+                "entity": "BRAZIL",
                 "currency": "Cruzado",
                 "alphabeticCode": "BRC",
                 "numericCode": "076",
                 "minorUnit": "",
-                "withdrawalDate": "1989-02",
-                "remark": ""
+                "withdrawalDate": "1989-02"
             },
             {
+                "entity": "BRAZIL",
                 "currency": "Cruzeiro",
                 "alphabeticCode": "BRE",
                 "numericCode": "076",
                 "minorUnit": "",
-                "withdrawalDate": "1993-03",
-                "remark": ""
+                "withdrawalDate": "1993-03"
             },
             {
+                "entity": "BRAZIL",
                 "currency": "New Cruzado",
                 "alphabeticCode": "BRN",
                 "numericCode": "076",
                 "minorUnit": "",
-                "withdrawalDate": "1990-03",
-                "remark": ""
+                "withdrawalDate": "1990-03"
             },
             {
+                "entity": "BRAZIL",
                 "currency": "Cruzeiro Real",
                 "alphabeticCode": "BRR",
                 "numericCode": "987",
                 "minorUnit": "",
-                "withdrawalDate": "1994-07",
-                "remark": ""
+                "withdrawalDate": "1994-07"
             }
         ]
     },
     {
         "isocode": "IO",
         "countryName": "British Indian Ocean Territory",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "US Dollar",
-                "alphabeticCode": "USD",
-                "numericCode": "840",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "BN",
@@ -3834,12 +3840,12 @@
         ],
         "currencies": [
             {
+                "entity": "BRUNEI DARUSSALAM",
                 "currency": "Brunei Dollar",
                 "alphabeticCode": "BND",
                 "numericCode": "096",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -4018,36 +4024,36 @@
         ],
         "currencies": [
             {
+                "entity": "BULGARIA",
                 "currency": "Bulgarian Lev",
                 "alphabeticCode": "BGN",
                 "numericCode": "975",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "BULGARIA",
                 "currency": "Lev A/52",
                 "alphabeticCode": "BGJ",
-                "numericCode": "",
+                "numericCode": "100",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             },
             {
+                "entity": "BULGARIA",
                 "currency": "Lev A/62",
                 "alphabeticCode": "BGK",
-                "numericCode": "",
+                "numericCode": "100",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             },
             {
+                "entity": "BULGARIA",
                 "currency": "Lev",
                 "alphabeticCode": "BGL",
                 "numericCode": "100",
                 "minorUnit": "",
-                "withdrawalDate": "2003-11",
-                "remark": ""
+                "withdrawalDate": "2003-11"
             }
         ]
     },
@@ -4328,12 +4334,12 @@
         ],
         "currencies": [
             {
+                "entity": "BURKINA FASO",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -4446,12 +4452,12 @@
         ],
         "currencies": [
             {
+                "entity": "BURUNDI",
                 "currency": "Burundi Franc",
                 "alphabeticCode": "BIF",
                 "numericCode": "108",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -4606,12 +4612,12 @@
         ],
         "currencies": [
             {
+                "entity": "CAMBODIA",
                 "currency": "Riel",
                 "alphabeticCode": "KHR",
                 "numericCode": "116",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -4682,12 +4688,12 @@
         ],
         "currencies": [
             {
+                "entity": "CAMEROON",
                 "currency": "CFA Franc BEAC",
                 "alphabeticCode": "XAF",
                 "numericCode": "950",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -4776,12 +4782,12 @@
         ],
         "currencies": [
             {
+                "entity": "CANADA",
                 "currency": "Canadian Dollar",
                 "alphabeticCode": "CAD",
                 "numericCode": "124",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -4915,32 +4921,12 @@
                 "subdivisionName": "Tarrafal de São Nicolau",
                 "subdivisionLevel": "Municipality"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "Cape Verde Escudo",
-                "alphabeticCode": "CVE",
-                "numericCode": "132",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
         "isocode": "KY",
         "countryName": "Cayman Islands",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "Cayman Islands Dollar",
-                "alphabeticCode": "KYD",
-                "numericCode": "136",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "CF",
@@ -5047,16 +5033,6 @@
                 "ISO_3166_2_short": "VK",
                 "subdivisionName": "Vakaga",
                 "subdivisionLevel": "Prefecture"
-            }
-        ],
-        "currencies": [
-            {
-                "currency": "CFA Franc BEAC",
-                "alphabeticCode": "XAF",
-                "numericCode": "950",
-                "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
             }
         ]
     },
@@ -5199,12 +5175,12 @@
         ],
         "currencies": [
             {
+                "entity": "CHAD",
                 "currency": "CFA Franc BEAC",
                 "alphabeticCode": "XAF",
                 "numericCode": "950",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -5305,20 +5281,20 @@
         ],
         "currencies": [
             {
-                "currency": "Unidad de Fomento",
-                "alphabeticCode": "CLF",
-                "numericCode": "990",
-                "minorUnit": "4",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "CHILE",
                 "currency": "Chilean Peso",
                 "alphabeticCode": "CLP",
                 "numericCode": "152",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "CHILE",
+                "currency": "Unidad de Fomento",
+                "alphabeticCode": "CLF",
+                "numericCode": "990",
+                "minorUnit": "4",
+                "withdrawalDate": ""
             }
         ]
     },
@@ -5533,20 +5509,12 @@
         ],
         "currencies": [
             {
+                "entity": "CHINA",
                 "currency": "Yuan Renminbi",
                 "alphabeticCode": "CNY",
                 "numericCode": "156",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
-                "currency": "Peoples Bank Dollar",
-                "alphabeticCode": "CNX",
-                "numericCode": "",
-                "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -5556,29 +5524,19 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "CHRISTMAS ISLAND",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
     {
         "isocode": "CC",
         "countryName": "Cocos (Keeling) Islands",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "Australian Dollar",
-                "alphabeticCode": "AUD",
-                "numericCode": "036",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "CO",
@@ -5785,20 +5743,20 @@
         ],
         "currencies": [
             {
+                "entity": "COLOMBIA",
                 "currency": "Colombian Peso",
                 "alphabeticCode": "COP",
                 "numericCode": "170",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "COLOMBIA",
                 "currency": "Unidad de Valor Real",
                 "alphabeticCode": "COU",
                 "numericCode": "970",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -5823,16 +5781,6 @@
                 "ISO_3166_2_short": "M",
                 "subdivisionName": "Mohéli",
                 "subdivisionLevel": "Island"
-            }
-        ],
-        "currencies": [
-            {
-                "currency": "Comoro Franc",
-                "alphabeticCode": "KMF",
-                "numericCode": "174",
-                "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
             }
         ]
     },
@@ -5906,16 +5854,6 @@
                 "subdivisionName": "Brazzaville",
                 "subdivisionLevel": "Capital"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "CFA Franc BEAC",
-                "alphabeticCode": "XAF",
-                "numericCode": "950",
-                "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -5988,22 +5926,22 @@
                 "subdivisionName": "Sud-Kivu",
                 "subdivisionLevel": "Province"
             }
+        ],
+        "currencies": [
+            {
+                "entity": "CONGO (THE DEMOCRATIC REPUBLIC OF THE)",
+                "currency": "Congolese Franc",
+                "alphabeticCode": "CDF",
+                "numericCode": "976",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            }
         ]
     },
     {
         "isocode": "CK",
         "countryName": "Cook Islands",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "New Zealand Dollar",
-                "alphabeticCode": "NZD",
-                "numericCode": "554",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "CR",
@@ -6054,12 +5992,12 @@
         ],
         "currencies": [
             {
+                "entity": "COSTA RICA",
                 "currency": "Costa Rican Colon",
                 "alphabeticCode": "CRC",
                 "numericCode": "188",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -6184,12 +6122,12 @@
         ],
         "currencies": [
             {
+                "entity": "CÔTE D'IVOIRE",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -6326,20 +6264,28 @@
         ],
         "currencies": [
             {
-                "currency": "Croatian Kuna",
+                "entity": "CROATIA",
+                "currency": "Kuna",
                 "alphabeticCode": "HRK",
                 "numericCode": "191",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "CROATIA",
                 "currency": "Croatian Dinar",
                 "alphabeticCode": "HRD",
                 "numericCode": "191",
                 "minorUnit": "",
-                "withdrawalDate": "1995-01",
-                "remark": ""
+                "withdrawalDate": "1995-01"
+            },
+            {
+                "entity": "CROATIA",
+                "currency": "Croatian Kuna",
+                "alphabeticCode": "HRK",
+                "numericCode": "191",
+                "minorUnit": "",
+                "withdrawalDate": "2015-06"
             }
         ]
     },
@@ -6440,20 +6386,20 @@
         ],
         "currencies": [
             {
-                "currency": "Peso Convertible",
-                "alphabeticCode": "CUC",
-                "numericCode": "931",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "CUBA",
                 "currency": "Cuban Peso",
                 "alphabeticCode": "CUP",
                 "numericCode": "192",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "CUBA",
+                "currency": "Peso Convertible",
+                "alphabeticCode": "CUC",
+                "numericCode": "931",
+                "minorUnit": "2",
+                "withdrawalDate": ""
             }
         ]
     },
@@ -6463,12 +6409,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "CURAÇAO",
                 "currency": "Netherlands Antillean Guilder",
                 "alphabeticCode": "ANG",
                 "numericCode": "532",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -6515,20 +6461,20 @@
         ],
         "currencies": [
             {
+                "entity": "CYPRUS",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "CYPRUS",
                 "currency": "Cyprus Pound",
                 "alphabeticCode": "CYP",
                 "numericCode": "196",
                 "minorUnit": "",
-                "withdrawalDate": "2008-01",
-                "remark": ""
+                "withdrawalDate": "2008-01"
             }
         ]
     },
@@ -6620,16 +6566,6 @@
                 "subdivisionName": "Zlínský kraj",
                 "subdivisionLevel": "Region"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "Czech Koruna",
-                "alphabeticCode": "CZK",
-                "numericCode": "203",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -6669,12 +6605,12 @@
         ],
         "currencies": [
             {
+                "entity": "DENMARK",
                 "currency": "Danish Krone",
                 "alphabeticCode": "DKK",
                 "numericCode": "208",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -6721,12 +6657,12 @@
         ],
         "currencies": [
             {
+                "entity": "DJIBOUTI",
                 "currency": "Djibouti Franc",
                 "alphabeticCode": "DJF",
                 "numericCode": "262",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -6797,12 +6733,12 @@
         ],
         "currencies": [
             {
+                "entity": "DOMINICA",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -7002,16 +6938,6 @@
                 "subdivisionName": "Santo Domingo",
                 "subdivisionLevel": "Province"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "Dominican Peso",
-                "alphabeticCode": "DOP",
-                "numericCode": "214",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -7165,28 +7091,28 @@
         ],
         "currencies": [
             {
+                "entity": "ECUADOR",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ECUADOR",
                 "currency": "Sucre",
                 "alphabeticCode": "ECS",
                 "numericCode": "218",
                 "minorUnit": "",
-                "withdrawalDate": "2000-09",
-                "remark": ""
+                "withdrawalDate": "2000-09"
             },
             {
+                "entity": "ECUADOR",
                 "currency": "Unidad de Valor Constante (UVC)",
                 "alphabeticCode": "ECV",
                 "numericCode": "983",
                 "minorUnit": "",
-                "withdrawalDate": "2000-09",
-                "remark": ""
+                "withdrawalDate": "2000-09"
             }
         ]
     },
@@ -7371,12 +7297,12 @@
         ],
         "currencies": [
             {
+                "entity": "EGYPT",
                 "currency": "Egyptian Pound",
                 "alphabeticCode": "EGP",
                 "numericCode": "818",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -7471,20 +7397,20 @@
         ],
         "currencies": [
             {
+                "entity": "EL SALVADOR",
                 "currency": "El Salvador Colon",
                 "alphabeticCode": "SVC",
                 "numericCode": "222",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "EL SALVADOR",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -7537,28 +7463,20 @@
         ],
         "currencies": [
             {
+                "entity": "EQUATORIAL GUINEA",
                 "currency": "CFA Franc BEAC",
                 "alphabeticCode": "XAF",
                 "numericCode": "950",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
-                "currency": "Ekwele",
-                "alphabeticCode": "EQE",
-                "numericCode": "",
-                "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
-            },
-            {
+                "entity": "EQUATORIAL GUINEA",
                 "currency": "Ekwele",
                 "alphabeticCode": "GQE",
                 "numericCode": "226",
                 "minorUnit": "",
-                "withdrawalDate": "1986-06",
-                "remark": ""
+                "withdrawalDate": "1986-06"
             }
         ]
     },
@@ -7605,12 +7523,12 @@
         ],
         "currencies": [
             {
+                "entity": "ERITREA",
                 "currency": "Nakfa",
                 "alphabeticCode": "ERN",
                 "numericCode": "232",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -7711,20 +7629,20 @@
         ],
         "currencies": [
             {
+                "entity": "ESTONIA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ESTONIA",
                 "currency": "Kroon",
                 "alphabeticCode": "EEK",
                 "numericCode": "233",
                 "minorUnit": "",
-                "withdrawalDate": "2011-01",
-                "remark": ""
+                "withdrawalDate": "2011-01"
             }
         ]
     },
@@ -7765,7 +7683,7 @@
             {
                 "ISO_3166_2": "ET-GA",
                 "ISO_3166_2_short": "GA",
-                "subdivisionName": "Gamb��la Hizboch / Gambela Hizboch",
+                "subdivisionName": "Gambēla Hizboch / Gambela Hizboch",
                 "subdivisionLevel": "State"
             },
             {
@@ -7783,7 +7701,7 @@
             {
                 "ISO_3166_2": "ET-SN",
                 "ISO_3166_2_short": "SN",
-                "subdivisionName": "YeDebub Bihēroch Bihēreseboch\r\nna Hizboch / YeDebub Biheroch Bihereseboch na Hizboch",
+                "subdivisionName": "YeDebub Bihēroch Bihēreseboch\nna Hizboch / YeDebub Biheroch Bihereseboch na Hizboch",
                 "subdivisionLevel": "State"
             },
             {
@@ -7801,44 +7719,24 @@
         ],
         "currencies": [
             {
+                "entity": "ETHIOPIA",
                 "currency": "Ethiopian Birr",
                 "alphabeticCode": "ETB",
                 "numericCode": "230",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
     {
         "isocode": "FK",
         "countryName": "Falkland Islands (Malvinas)",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "Falkland Islands Pound",
-                "alphabeticCode": "FKP",
-                "numericCode": "238",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "FO",
         "countryName": "Faroe Islands",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "Danish Krone",
-                "alphabeticCode": "DKK",
-                "numericCode": "208",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "FJ",
@@ -7877,12 +7775,12 @@
         ],
         "currencies": [
             {
+                "entity": "FIJI",
                 "currency": "Fiji Dollar",
                 "alphabeticCode": "FJD",
                 "numericCode": "242",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -8007,20 +7905,20 @@
         ],
         "currencies": [
             {
+                "entity": "FINLAND",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "FINLAND",
                 "currency": "Markka",
                 "alphabeticCode": "FIM",
                 "numericCode": "246",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -8613,20 +8511,20 @@
         ],
         "currencies": [
             {
+                "entity": "FRANCE",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "FRANCE",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -8636,12 +8534,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "FRENCH GUIANA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "FRENCH  GUIANA",
+                "currency": "French Franc",
+                "alphabeticCode": "FRF",
+                "numericCode": "250",
+                "minorUnit": "",
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -8651,12 +8557,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "FRENCH POLYNESIA",
                 "currency": "CFP Franc",
                 "alphabeticCode": "XPF",
                 "numericCode": "953",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -8666,20 +8572,12 @@
         "subdivisions": [],
         "currencies": [
             {
-                "currency": "Euro",
-                "alphabeticCode": "EUR",
-                "numericCode": "978",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "FRENCH SOUTHERN TERRITORIES",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -8744,12 +8642,12 @@
         ],
         "currencies": [
             {
+                "entity": "GABON",
                 "currency": "CFA Franc BEAC",
                 "alphabeticCode": "XAF",
                 "numericCode": "950",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -8792,16 +8690,6 @@
                 "ISO_3166_2_short": "W",
                 "subdivisionName": "Western",
                 "subdivisionLevel": "Division"
-            }
-        ],
-        "currencies": [
-            {
-                "currency": "Dalasi",
-                "alphabeticCode": "GMD",
-                "numericCode": "270",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
             }
         ]
     },
@@ -8884,28 +8772,28 @@
         ],
         "currencies": [
             {
+                "entity": "GEORGIA",
                 "currency": "Lari",
                 "alphabeticCode": "GEL",
                 "numericCode": "981",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GEORGIA",
                 "currency": "Georgian Coupon",
                 "alphabeticCode": "GEK",
                 "numericCode": "268",
                 "minorUnit": "",
-                "withdrawalDate": "1995-10",
-                "remark": ""
+                "withdrawalDate": "1995-10"
             },
             {
+                "entity": "GEORGIA",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1994-04",
-                "remark": ""
+                "withdrawalDate": "1994-04"
             }
         ]
     },
@@ -9012,20 +8900,20 @@
         ],
         "currencies": [
             {
+                "entity": "GERMANY",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GERMANY",
                 "currency": "Deutsche Mark",
                 "alphabeticCode": "DEM",
                 "numericCode": "276",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -9096,28 +8984,28 @@
         ],
         "currencies": [
             {
+                "entity": "GHANA",
                 "currency": "Ghana Cedi",
                 "alphabeticCode": "GHS",
                 "numericCode": "936",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GHANA",
                 "currency": "Cedi",
                 "alphabeticCode": "GHC",
                 "numericCode": "288",
                 "minorUnit": "",
-                "withdrawalDate": "2008-01",
-                "remark": ""
+                "withdrawalDate": "2008-01"
             },
             {
+                "entity": "GHANA",
                 "currency": "Ghana Cedi",
                 "alphabeticCode": "GHP",
                 "numericCode": "939",
                 "minorUnit": "",
-                "withdrawalDate": "2007-06",
-                "remark": ""
+                "withdrawalDate": "2007-06"
             }
         ]
     },
@@ -9127,12 +9015,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "GIBRALTAR",
                 "currency": "Gibraltar Pound",
                 "alphabeticCode": "GIP",
                 "numericCode": "292",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -9455,20 +9343,20 @@
         ],
         "currencies": [
             {
+                "entity": "GREECE",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GREECE",
                 "currency": "Drachma",
                 "alphabeticCode": "GRD",
                 "numericCode": "300",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -9503,12 +9391,12 @@
         ],
         "currencies": [
             {
+                "entity": "GREENLAND",
                 "currency": "Danish Krone",
                 "alphabeticCode": "DKK",
                 "numericCode": "208",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -9561,12 +9449,12 @@
         ],
         "currencies": [
             {
+                "entity": "GRENADA",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -9576,20 +9464,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "GUADELOUPE",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GUADELOUPE",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -9599,12 +9487,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "GUAM",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -9747,12 +9635,12 @@
         ],
         "currencies": [
             {
+                "entity": "GUATEMALA",
                 "currency": "Quetzal",
                 "alphabeticCode": "GTQ",
                 "numericCode": "320",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -9762,12 +9650,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "GUERNSEY",
                 "currency": "Pound Sterling",
                 "alphabeticCode": "GBP",
                 "numericCode": "826",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -9976,28 +9864,28 @@
         ],
         "currencies": [
             {
-                "currency": "Guinea Franc",
+                "entity": "GUINEA",
+                "currency": "Guinean Franc",
                 "alphabeticCode": "GNF",
                 "numericCode": "324",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GUINEA",
                 "currency": "Syli",
                 "alphabeticCode": "GNE",
-                "numericCode": "",
+                "numericCode": "324",
                 "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
+                "withdrawalDate": "1989-12"
             },
             {
+                "entity": "GUINEA",
                 "currency": "Syli",
                 "alphabeticCode": "GNS",
-                "numericCode": "",
+                "numericCode": "324",
                 "minorUnit": "",
-                "withdrawalDate": "1986-02",
-                "remark": ""
+                "withdrawalDate": "1986-02"
             }
         ]
     },
@@ -10062,28 +9950,28 @@
         ],
         "currencies": [
             {
+                "entity": "GUINEA-BISSAU",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "GUINEA-BISSAU",
                 "currency": "Guinea Escudo",
                 "alphabeticCode": "GWE",
-                "numericCode": "",
+                "numericCode": "624",
                 "minorUnit": "",
-                "withdrawalDate": "1978 to 1981",
-                "remark": ""
+                "withdrawalDate": "1978 to 1981"
             },
             {
+                "entity": "GUINEA-BISSAU",
                 "currency": "Guinea-Bissau Peso",
                 "alphabeticCode": "GWP",
                 "numericCode": "624",
                 "minorUnit": "",
-                "withdrawalDate": "1997-05",
-                "remark": ""
+                "withdrawalDate": "1997-05"
             }
         ]
     },
@@ -10154,12 +10042,12 @@
         ],
         "currencies": [
             {
+                "entity": "GUYANA",
                 "currency": "Guyana Dollar",
                 "alphabeticCode": "GYD",
                 "numericCode": "328",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -10230,20 +10118,20 @@
         ],
         "currencies": [
             {
+                "entity": "HAITI",
                 "currency": "Gourde",
                 "alphabeticCode": "HTG",
                 "numericCode": "332",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "HAITI",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -10253,12 +10141,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "HEARD ISLAND AND McDONALD ISLANDS",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -10268,20 +10156,12 @@
         "subdivisions": [],
         "currencies": [
             {
-                "currency": "Euro",
-                "alphabeticCode": "EUR",
-                "numericCode": "978",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "HOLY SEE (VATICAN CITY STATE)",
                 "currency": "Italian Lira",
                 "alphabeticCode": "ITL",
                 "numericCode": "380",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -10400,12 +10280,12 @@
         ],
         "currencies": [
             {
+                "entity": "HONDURAS",
                 "currency": "Lempira",
                 "alphabeticCode": "HNL",
                 "numericCode": "340",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -10415,12 +10295,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "HONG KONG",
                 "currency": "Hong Kong Dollar",
                 "alphabeticCode": "HKD",
                 "numericCode": "344",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -10683,12 +10563,12 @@
         ],
         "currencies": [
             {
+                "entity": "HUNGARY",
                 "currency": "Forint",
                 "alphabeticCode": "HUF",
                 "numericCode": "348",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -10753,20 +10633,20 @@
         ],
         "currencies": [
             {
+                "entity": "ICELAND",
                 "currency": "Iceland Krona",
                 "alphabeticCode": "ISK",
                 "numericCode": "352",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ICELAND",
                 "currency": "Old Krona",
                 "alphabeticCode": "ISJ",
-                "numericCode": "",
+                "numericCode": "352",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             }
         ]
     },
@@ -10981,12 +10861,12 @@
         ],
         "currencies": [
             {
+                "entity": "INDIA",
                 "currency": "Indian Rupee",
                 "alphabeticCode": "INR",
                 "numericCode": "356",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -11195,12 +11075,12 @@
         ],
         "currencies": [
             {
+                "entity": "INDONESIA",
                 "currency": "Rupiah",
                 "alphabeticCode": "IDR",
                 "numericCode": "360",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -11388,6 +11268,16 @@
                 "subdivisionName": "Khorāsān-e Shemālī",
                 "subdivisionLevel": "Province"
             }
+        ],
+        "currencies": [
+            {
+                "entity": "IRAN (ISLAMIC REPUBLIC OF)",
+                "currency": "Iranian Rial",
+                "alphabeticCode": "IRR",
+                "numericCode": "364",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            }
         ]
     },
     {
@@ -11505,12 +11395,12 @@
         ],
         "currencies": [
             {
+                "entity": "IRAQ",
                 "currency": "Iraqi Dinar",
                 "alphabeticCode": "IQD",
                 "numericCode": "368",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -11677,20 +11567,20 @@
         ],
         "currencies": [
             {
+                "entity": "IRELAND",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "IRELAND",
                 "currency": "Irish Pound",
                 "alphabeticCode": "IEP",
                 "numericCode": "372",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -11700,12 +11590,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "ISLE OF MAN",
                 "currency": "Pound Sterling",
                 "alphabeticCode": "GBP",
                 "numericCode": "826",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -11752,28 +11642,28 @@
         ],
         "currencies": [
             {
+                "entity": "ISRAEL",
                 "currency": "New Israeli Sheqel",
                 "alphabeticCode": "ILS",
                 "numericCode": "376",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ISRAEL",
                 "currency": "Pound",
                 "alphabeticCode": "ILP",
-                "numericCode": "",
+                "numericCode": "376",
                 "minorUnit": "",
-                "withdrawalDate": "1978 to 1981",
-                "remark": ""
+                "withdrawalDate": "1978 to 1981"
             },
             {
+                "entity": "ISRAEL",
                 "currency": "Old Shekel",
                 "alphabeticCode": "ILR",
-                "numericCode": "",
+                "numericCode": "376",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             }
         ]
     },
@@ -12444,20 +12334,20 @@
         ],
         "currencies": [
             {
+                "entity": "ITALY",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ITALY",
                 "currency": "Italian Lira",
                 "alphabeticCode": "ITL",
                 "numericCode": "380",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -12552,12 +12442,12 @@
         ],
         "currencies": [
             {
+                "entity": "JAMAICA",
                 "currency": "Jamaican Dollar",
                 "alphabeticCode": "JMD",
                 "numericCode": "388",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -12850,12 +12740,12 @@
         ],
         "currencies": [
             {
+                "entity": "JAPAN",
                 "currency": "Yen",
                 "alphabeticCode": "JPY",
                 "numericCode": "392",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -12865,12 +12755,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "JERSEY",
                 "currency": "Pound Sterling",
                 "alphabeticCode": "GBP",
                 "numericCode": "826",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -12953,12 +12843,12 @@
         ],
         "currencies": [
             {
+                "entity": "JORDAN",
                 "currency": "Jordanian Dinar",
                 "alphabeticCode": "JOD",
                 "numericCode": "400",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -13065,20 +12955,20 @@
         ],
         "currencies": [
             {
+                "entity": "KAZAKHSTAN",
                 "currency": "Tenge",
                 "alphabeticCode": "KZT",
                 "numericCode": "398",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "KAZAKHSTAN",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1994-05",
-                "remark": ""
+                "withdrawalDate": "1994-05"
             }
         ]
     },
@@ -13137,12 +13027,12 @@
         ],
         "currencies": [
             {
+                "entity": "KENYA",
                 "currency": "Kenyan Shilling",
                 "alphabeticCode": "KES",
                 "numericCode": "404",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -13171,12 +13061,12 @@
         ],
         "currencies": [
             {
+                "entity": "KIRIBATI",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -13397,12 +13287,12 @@
         ],
         "currencies": [
             {
+                "entity": "KUWAIT",
                 "currency": "Kuwaiti Dinar",
                 "alphabeticCode": "KWD",
                 "numericCode": "414",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -13461,20 +13351,20 @@
         ],
         "currencies": [
             {
+                "entity": "KYRGYZSTAN",
                 "currency": "Som",
                 "alphabeticCode": "KGS",
                 "numericCode": "417",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "KYRGYZSTAN",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1993-01",
-                "remark": ""
+                "withdrawalDate": "1993-01"
             }
         ]
     },
@@ -14313,28 +14203,28 @@
         ],
         "currencies": [
             {
+                "entity": "LATVIA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "LATVIA",
                 "currency": "Latvian Lats",
                 "alphabeticCode": "LVL",
                 "numericCode": "428",
                 "minorUnit": "",
-                "withdrawalDate": "2014-01",
-                "remark": ""
+                "withdrawalDate": "2014-01"
             },
             {
+                "entity": "LATVIA",
                 "currency": "Latvian Ruble",
                 "alphabeticCode": "LVR",
                 "numericCode": "428",
                 "minorUnit": "",
-                "withdrawalDate": "1994-12",
-                "remark": ""
+                "withdrawalDate": "1994-12"
             }
         ]
     },
@@ -14393,12 +14283,12 @@
         ],
         "currencies": [
             {
+                "entity": "LEBANON",
                 "currency": "Lebanese Pound",
                 "alphabeticCode": "LBP",
                 "numericCode": "422",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -14469,36 +14359,36 @@
         ],
         "currencies": [
             {
+                "entity": "LESOTHO",
                 "currency": "Loti",
                 "alphabeticCode": "LSL",
                 "numericCode": "426",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "LESOTHO",
                 "currency": "Rand",
                 "alphabeticCode": "ZAR",
                 "numericCode": "710",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
-                "currency": "Maloti",
+                "entity": "LESOTHO",
+                "currency": "Loti",
                 "alphabeticCode": "LSM",
-                "numericCode": "",
+                "numericCode": "426",
                 "minorUnit": "",
-                "withdrawalDate": "1985-05",
-                "remark": ""
+                "withdrawalDate": "1985-05"
             },
             {
+                "entity": "LESOTHO",
                 "currency": "Financial Rand",
                 "alphabeticCode": "ZAL",
                 "numericCode": "991",
                 "minorUnit": "",
-                "withdrawalDate": "1995-03",
-                "remark": ""
+                "withdrawalDate": "1995-03"
             }
         ]
     },
@@ -14599,12 +14489,12 @@
         ],
         "currencies": [
             {
+                "entity": "LIBERIA",
                 "currency": "Liberian Dollar",
                 "alphabeticCode": "LRD",
                 "numericCode": "430",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -14747,12 +14637,12 @@
         ],
         "currencies": [
             {
+                "entity": "LIBYA",
                 "currency": "Libyan Dinar",
                 "alphabeticCode": "LYD",
                 "numericCode": "434",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -14829,12 +14719,12 @@
         ],
         "currencies": [
             {
+                "entity": "LIECHTENSTEIN",
                 "currency": "Swiss Franc",
                 "alphabeticCode": "CHF",
                 "numericCode": "756",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -14905,20 +14795,28 @@
         ],
         "currencies": [
             {
+                "entity": "LITHUANIA",
+                "currency": "Euro",
+                "alphabeticCode": "EUR",
+                "numericCode": "978",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "LITHUANIA",
                 "currency": "Lithuanian Litas",
                 "alphabeticCode": "LTL",
                 "numericCode": "440",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "minorUnit": "",
+                "withdrawalDate": "2014-12"
             },
             {
+                "entity": "LITHUANIA",
                 "currency": "Talonas",
                 "alphabeticCode": "LTT",
                 "numericCode": "440",
                 "minorUnit": "",
-                "withdrawalDate": "1993-07",
-                "remark": ""
+                "withdrawalDate": "1993-07"
             }
         ]
     },
@@ -14947,36 +14845,36 @@
         ],
         "currencies": [
             {
+                "entity": "LUXEMBOURG",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "LUXEMBOURG",
                 "currency": "Luxembourg Convertible Franc",
                 "alphabeticCode": "LUC",
                 "numericCode": "989",
                 "minorUnit": "",
-                "withdrawalDate": "1990-03",
-                "remark": ""
+                "withdrawalDate": "1990-03"
             },
             {
+                "entity": "LUXEMBOURG",
                 "currency": "Luxembourg Franc",
                 "alphabeticCode": "LUF",
                 "numericCode": "442",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             },
             {
+                "entity": "LUXEMBOURG",
                 "currency": "Luxembourg Financial Franc",
                 "alphabeticCode": "LUL",
                 "numericCode": "988",
                 "minorUnit": "",
-                "withdrawalDate": "1990-03",
-                "remark": ""
+                "withdrawalDate": "1990-03"
             }
         ]
     },
@@ -14986,12 +14884,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "MACAO",
                 "currency": "Pataca",
                 "alphabeticCode": "MOP",
                 "numericCode": "446",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -15509,6 +15407,16 @@
                 "subdivisionName": "Šuto Orizari",
                 "subdivisionLevel": "Municipality"
             }
+        ],
+        "currencies": [
+            {
+                "entity": "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)",
+                "currency": "Denar",
+                "alphabeticCode": "MKD",
+                "numericCode": "807",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            }
         ]
     },
     {
@@ -15554,20 +15462,20 @@
         ],
         "currencies": [
             {
+                "entity": "MADAGASCAR",
                 "currency": "Malagasy Ariary",
                 "alphabeticCode": "MGA",
                 "numericCode": "969",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MADAGASCAR",
                 "currency": "Malagasy Franc",
                 "alphabeticCode": "MGF",
                 "numericCode": "450",
                 "minorUnit": "",
-                "withdrawalDate": "2004-12",
-                "remark": ""
+                "withdrawalDate": "2004-12"
             }
         ]
     },
@@ -15764,12 +15672,20 @@
         ],
         "currencies": [
             {
-                "currency": "Kwacha",
+                "entity": "MALAWI",
+                "currency": "Malawi Kwacha",
                 "alphabeticCode": "MWK",
                 "numericCode": "454",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "MALAWI",
+                "currency": "Kwacha",
+                "alphabeticCode": "MWK",
+                "numericCode": "454",
+                "minorUnit": "",
+                "withdrawalDate": "2016-02"
             }
         ]
     },
@@ -15876,12 +15792,12 @@
         ],
         "currencies": [
             {
+                "entity": "MALAYSIA",
                 "currency": "Malaysian Ringgit",
                 "alphabeticCode": "MYR",
                 "numericCode": "458",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -16018,20 +15934,20 @@
         ],
         "currencies": [
             {
+                "entity": "MALDIVES",
                 "currency": "Rufiyaa",
                 "alphabeticCode": "MVR",
                 "numericCode": "462",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MALDIVES",
                 "currency": "Maldive Rupee",
                 "alphabeticCode": "MVQ",
-                "numericCode": "",
+                "numericCode": "462",
                 "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
+                "withdrawalDate": "1989-12"
             }
         ]
     },
@@ -16096,28 +16012,20 @@
         ],
         "currencies": [
             {
+                "entity": "MALI",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
-                "currency": "Mali Franc",
-                "alphabeticCode": "MAF",
-                "numericCode": "",
-                "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
-            },
-            {
+                "entity": "MALI",
                 "currency": "Mali Franc",
                 "alphabeticCode": "MLF",
                 "numericCode": "466",
                 "minorUnit": "",
-                "withdrawalDate": "1984-11",
-                "remark": ""
+                "withdrawalDate": "1984-11"
             }
         ]
     },
@@ -16536,28 +16444,28 @@
         ],
         "currencies": [
             {
+                "entity": "MALTA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MALTA",
                 "currency": "Maltese Lira",
                 "alphabeticCode": "MTL",
                 "numericCode": "470",
                 "minorUnit": "",
-                "withdrawalDate": "2008-01",
-                "remark": ""
+                "withdrawalDate": "2008-01"
             },
             {
+                "entity": "MALTA",
                 "currency": "Maltese Pound",
                 "alphabeticCode": "MTP",
-                "numericCode": "",
+                "numericCode": "470",
                 "minorUnit": "",
-                "withdrawalDate": "1983-06",
-                "remark": ""
+                "withdrawalDate": "1983-06"
             }
         ]
     },
@@ -16721,16 +16629,6 @@
                 "subdivisionName": "Wotje",
                 "subdivisionLevel": "Municipality"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "US Dollar",
-                "alphabeticCode": "USD",
-                "numericCode": "840",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -16739,20 +16637,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "MARTINIQUE",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MARTINIQUE",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -16841,12 +16739,20 @@
         ],
         "currencies": [
             {
+                "entity": "MAURITANIA",
+                "currency": "Ouguiya",
+                "alphabeticCode": "MRU",
+                "numericCode": "929",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "MAURITANIA",
                 "currency": "Ouguiya",
                 "alphabeticCode": "MRO",
                 "numericCode": "478",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "minorUnit": "",
+                "withdrawalDate": "2017-12"
             }
         ]
     },
@@ -16959,12 +16865,12 @@
         ],
         "currencies": [
             {
+                "entity": "MAURITIUS",
                 "currency": "Mauritius Rupee",
                 "alphabeticCode": "MUR",
                 "numericCode": "480",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -16974,20 +16880,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "MAYOTTE",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MAYOTTE",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -17190,28 +17096,28 @@
         ],
         "currencies": [
             {
+                "entity": "MEXICO",
                 "currency": "Mexican Peso",
                 "alphabeticCode": "MXN",
                 "numericCode": "484",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MEXICO",
                 "currency": "Mexican Unidad de Inversion (UDI)",
                 "alphabeticCode": "MXV",
                 "numericCode": "979",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MEXICO",
                 "currency": "Mexican Peso",
                 "alphabeticCode": "MXP",
-                "numericCode": "",
+                "numericCode": "484",
                 "minorUnit": "",
-                "withdrawalDate": "1993-01",
-                "remark": ""
+                "withdrawalDate": "1993-01"
             }
         ]
     },
@@ -17242,6 +17148,16 @@
                 "ISO_3166_2_short": "YAP",
                 "subdivisionName": "Yap",
                 "subdivisionLevel": "State"
+            }
+        ],
+        "currencies": [
+            {
+                "entity": "MICRONESIA (FEDERATED STATES OF)",
+                "currency": "US Dollar",
+                "alphabeticCode": "USD",
+                "numericCode": "840",
+                "minorUnit": "2",
+                "withdrawalDate": ""
             }
         ]
     },
@@ -17588,20 +17504,20 @@
         ],
         "currencies": [
             {
+                "entity": "MONACO",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MONACO",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -17744,12 +17660,12 @@
         ],
         "currencies": [
             {
+                "entity": "MONGOLIA",
                 "currency": "Tugrik",
                 "alphabeticCode": "MNT",
                 "numericCode": "496",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -17886,12 +17802,12 @@
         ],
         "currencies": [
             {
+                "entity": "MONTENEGRO",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -17901,12 +17817,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "MONTSERRAT",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -18391,12 +18307,12 @@
         ],
         "currencies": [
             {
+                "entity": "MOROCCO",
                 "currency": "Moroccan Dirham",
                 "alphabeticCode": "MAD",
                 "numericCode": "504",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -18473,28 +18389,28 @@
         ],
         "currencies": [
             {
+                "entity": "MOZAMBIQUE",
                 "currency": "Mozambique Metical",
                 "alphabeticCode": "MZN",
                 "numericCode": "943",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "MOZAMBIQUE",
                 "currency": "Mozambique Escudo",
                 "alphabeticCode": "MZE",
-                "numericCode": "",
+                "numericCode": "508",
                 "minorUnit": "",
-                "withdrawalDate": "1978 to 1981",
-                "remark": ""
+                "withdrawalDate": "1978 to 1981"
             },
             {
+                "entity": "MOZAMBIQUE",
                 "currency": "Mozambique Metical",
                 "alphabeticCode": "MZM",
                 "numericCode": "508",
                 "minorUnit": "",
-                "withdrawalDate": "2006-06",
-                "remark": ""
+                "withdrawalDate": "2006-06"
             }
         ]
     },
@@ -18589,12 +18505,12 @@
         ],
         "currencies": [
             {
+                "entity": "MYANMAR",
                 "currency": "Kyat",
                 "alphabeticCode": "MMK",
                 "numericCode": "104",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -18683,20 +18599,20 @@
         ],
         "currencies": [
             {
+                "entity": "NAMIBIA",
                 "currency": "Namibia Dollar",
                 "alphabeticCode": "NAD",
                 "numericCode": "516",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "NAMIBIA",
                 "currency": "Rand",
                 "alphabeticCode": "ZAR",
                 "numericCode": "710",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -18791,12 +18707,12 @@
         ],
         "currencies": [
             {
+                "entity": "NAURU",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -18921,12 +18837,12 @@
         ],
         "currencies": [
             {
+                "entity": "NEPAL",
                 "currency": "Nepalese Rupee",
                 "alphabeticCode": "NPR",
                 "numericCode": "524",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19009,20 +18925,12 @@
         ],
         "currencies": [
             {
-                "currency": "Euro",
-                "alphabeticCode": "EUR",
-                "numericCode": "978",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "NETHERLANDS",
                 "currency": "Netherlands Guilder",
                 "alphabeticCode": "NLG",
                 "numericCode": "528",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -19032,12 +18940,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "NEW CALEDONIA",
                 "currency": "CFP Franc",
                 "alphabeticCode": "XPF",
                 "numericCode": "953",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19150,12 +19058,12 @@
         ],
         "currencies": [
             {
+                "entity": "NEW ZEALAND",
                 "currency": "New Zealand Dollar",
                 "alphabeticCode": "NZD",
                 "numericCode": "554",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19268,20 +19176,20 @@
         ],
         "currencies": [
             {
+                "entity": "NICARAGUA",
                 "currency": "Cordoba Oro",
                 "alphabeticCode": "NIO",
                 "numericCode": "558",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "NICARAGUA",
                 "currency": "Cordoba",
                 "alphabeticCode": "NIC",
-                "numericCode": "",
+                "numericCode": "558",
                 "minorUnit": "",
-                "withdrawalDate": "1990-10",
-                "remark": ""
+                "withdrawalDate": "1990-10"
             }
         ]
     },
@@ -19336,16 +19244,6 @@
                 "ISO_3166_2_short": "8",
                 "subdivisionName": "Niamey",
                 "subdivisionLevel": "Urban community"
-            }
-        ],
-        "currencies": [
-            {
-                "currency": "CFA Franc BCEAO",
-                "alphabeticCode": "XOF",
-                "numericCode": "952",
-                "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
             }
         ]
     },
@@ -19578,12 +19476,12 @@
         ],
         "currencies": [
             {
+                "entity": "NIGERIA",
                 "currency": "Naira",
                 "alphabeticCode": "NGN",
                 "numericCode": "566",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19593,12 +19491,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "NIUE",
                 "currency": "New Zealand Dollar",
                 "alphabeticCode": "NZD",
                 "numericCode": "554",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19608,29 +19506,19 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "NORFOLK ISLAND",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
     {
         "isocode": "MP",
         "countryName": "Northern Mariana Islands",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "US Dollar",
-                "alphabeticCode": "USD",
-                "numericCode": "840",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "NO",
@@ -19753,12 +19641,12 @@
         ],
         "currencies": [
             {
+                "entity": "NORWAY",
                 "currency": "Norwegian Krone",
                 "alphabeticCode": "NOK",
                 "numericCode": "578",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19823,12 +19711,12 @@
         ],
         "currencies": [
             {
+                "entity": "OMAN",
                 "currency": "Rial Omani",
                 "alphabeticCode": "OMR",
                 "numericCode": "512",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19887,12 +19775,12 @@
         ],
         "currencies": [
             {
+                "entity": "PAKISTAN",
                 "currency": "Pakistan Rupee",
                 "alphabeticCode": "PKR",
                 "numericCode": "586",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -19999,12 +19887,12 @@
         ],
         "currencies": [
             {
+                "entity": "PALAU",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -20189,20 +20077,20 @@
         ],
         "currencies": [
             {
+                "entity": "PANAMA",
                 "currency": "Balboa",
                 "alphabeticCode": "PAB",
                 "numericCode": "590",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "PANAMA",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -20333,12 +20221,12 @@
         ],
         "currencies": [
             {
+                "entity": "PAPUA NEW GUINEA",
                 "currency": "Kina",
                 "alphabeticCode": "PGK",
                 "numericCode": "598",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -20457,12 +20345,12 @@
         ],
         "currencies": [
             {
+                "entity": "PARAGUAY",
                 "currency": "Guarani",
                 "alphabeticCode": "PYG",
                 "numericCode": "600",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -20629,36 +20517,44 @@
         ],
         "currencies": [
             {
-                "currency": "Nuevo Sol",
+                "entity": "PERU",
+                "currency": "Sol",
                 "alphabeticCode": "PEN",
                 "numericCode": "604",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "PERU",
                 "currency": "Sol",
                 "alphabeticCode": "PEH",
-                "numericCode": "",
+                "numericCode": "604",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             },
             {
+                "entity": "PERU",
                 "currency": "Inti",
                 "alphabeticCode": "PEI",
                 "numericCode": "604",
                 "minorUnit": "",
-                "withdrawalDate": "1991-07",
-                "remark": ""
+                "withdrawalDate": "1991-07"
             },
             {
+                "entity": "PERU",
+                "currency": "Nuevo Sol",
+                "alphabeticCode": "PEN",
+                "numericCode": "604",
+                "minorUnit": "",
+                "withdrawalDate": "2015-12"
+            },
+            {
+                "entity": "PERU",
                 "currency": "Sol",
                 "alphabeticCode": "PES",
                 "numericCode": "604",
                 "minorUnit": "",
-                "withdrawalDate": "1986-02",
-                "remark": ""
+                "withdrawalDate": "1986-02"
             }
         ]
     },
@@ -21146,16 +21042,6 @@
                 "subdivisionName": "Zamboanga Sibuguey [Zamboanga Sibugay]",
                 "subdivisionLevel": "Province"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "Philippine Peso",
-                "alphabeticCode": "PHP",
-                "numericCode": "608",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -21164,12 +21050,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "PITCAIRN",
                 "currency": "New Zealand Dollar",
                 "alphabeticCode": "NZD",
                 "numericCode": "554",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -21276,20 +21162,20 @@
         ],
         "currencies": [
             {
+                "entity": "POLAND",
                 "currency": "Zloty",
                 "alphabeticCode": "PLN",
                 "numericCode": "985",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "POLAND",
                 "currency": "Zloty",
                 "alphabeticCode": "PLZ",
                 "numericCode": "616",
                 "minorUnit": "",
-                "withdrawalDate": "1997-01",
-                "remark": ""
+                "withdrawalDate": "1997-01"
             }
         ]
     },
@@ -21420,20 +21306,20 @@
         ],
         "currencies": [
             {
+                "entity": "PORTUGAL",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "PORTUGAL",
                 "currency": "Portuguese Escudo",
                 "alphabeticCode": "PTE",
                 "numericCode": "620",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -21443,12 +21329,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "PUERTO RICO",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -21501,12 +21387,12 @@
         ],
         "currencies": [
             {
+                "entity": "QATAR",
                 "currency": "Qatari Rial",
                 "alphabeticCode": "QAR",
                 "numericCode": "634",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -21516,20 +21402,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "RÉUNION",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "RÉUNION",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -21792,28 +21678,36 @@
         ],
         "currencies": [
             {
-                "currency": "New Romanian Leu",
+                "entity": "ROMANIA",
+                "currency": "Romanian Leu",
                 "alphabeticCode": "RON",
                 "numericCode": "946",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ROMANIA",
                 "currency": "Leu A/52",
                 "alphabeticCode": "ROK",
-                "numericCode": "",
+                "numericCode": "642",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             },
             {
+                "entity": "ROMANIA",
                 "currency": "Old Leu",
                 "alphabeticCode": "ROL",
                 "numericCode": "642",
                 "minorUnit": "",
-                "withdrawalDate": "2005-06",
-                "remark": ""
+                "withdrawalDate": "2005-06"
+            },
+            {
+                "entity": "ROMANIA",
+                "currency": "New Romanian Leu",
+                "alphabeticCode": "RON",
+                "numericCode": "946",
+                "minorUnit": "",
+                "withdrawalDate": "2015-06"
             }
         ]
     },
@@ -22172,7 +22066,7 @@
             {
                 "ISO_3166_2": "RU-KHM",
                 "ISO_3166_2_short": "KHM",
-                "subdivisionName": "Khanty-Mansiyskiy avtonomnyy\r\nokrug-Yugra",
+                "subdivisionName": "Khanty-Mansiyskiy avtonomnyy\nokrug-Yugra",
                 "subdivisionLevel": "Autonomous district"
             },
             {
@@ -22184,7 +22078,7 @@
             {
                 "ISO_3166_2": "RU-YAN",
                 "ISO_3166_2_short": "YAN",
-                "subdivisionName": "Yamalo-Nenetskiy avtonomnyy\r\nokrug",
+                "subdivisionName": "Yamalo-Nenetskiy avtonomnyy\nokrug",
                 "subdivisionLevel": "Autonomous district"
             },
             {
@@ -22196,20 +22090,12 @@
         ],
         "currencies": [
             {
-                "currency": "Russian Ruble",
-                "alphabeticCode": "RUB",
-                "numericCode": "643",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "RUSSIAN FEDERATION",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "2004-01",
-                "remark": ""
+                "withdrawalDate": "2004-01"
             }
         ]
     },
@@ -22250,12 +22136,12 @@
         ],
         "currencies": [
             {
+                "entity": "RWANDA",
                 "currency": "Rwanda Franc",
                 "alphabeticCode": "RWF",
                 "numericCode": "646",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22265,12 +22151,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "SAINT BARTHÉLEMY",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22389,12 +22275,12 @@
         ],
         "currencies": [
             {
+                "entity": "SAINT KITTS AND NEVIS",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22471,12 +22357,12 @@
         ],
         "currencies": [
             {
+                "entity": "SAINT LUCIA",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22486,12 +22372,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "SAINT MARTIN (FRENCH PART)",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22501,20 +22387,20 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "SAINT PIERRE AND MIQUELON",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SAINT PIERRE AND MIQUELON",
                 "currency": "French Franc",
                 "alphabeticCode": "FRF",
                 "numericCode": "250",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -22561,12 +22447,12 @@
         ],
         "currencies": [
             {
+                "entity": "SAINT VINCENT AND THE GRENADINES",
                 "currency": "East Caribbean Dollar",
                 "alphabeticCode": "XCD",
                 "numericCode": "951",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22643,12 +22529,12 @@
         ],
         "currencies": [
             {
+                "entity": "SAMOA",
                 "currency": "Tala",
                 "alphabeticCode": "WST",
                 "numericCode": "882",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22713,20 +22599,20 @@
         ],
         "currencies": [
             {
+                "entity": "SAN MARINO",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SAN MARINO",
                 "currency": "Italian Lira",
                 "alphabeticCode": "ITL",
                 "numericCode": "380",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -22749,12 +22635,20 @@
         ],
         "currencies": [
             {
+                "entity": "SAO TOME AND PRINCIPE",
+                "currency": "Dobra",
+                "alphabeticCode": "STN",
+                "numericCode": "930",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "SAO TOME AND PRINCIPE",
                 "currency": "Dobra",
                 "alphabeticCode": "STD",
                 "numericCode": "678",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "minorUnit": "",
+                "withdrawalDate": "2017-12"
             }
         ]
     },
@@ -22843,12 +22737,12 @@
         ],
         "currencies": [
             {
+                "entity": "SAUDI ARABIA",
                 "currency": "Saudi Riyal",
                 "alphabeticCode": "SAR",
                 "numericCode": "682",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -22943,12 +22837,12 @@
         ],
         "currencies": [
             {
+                "entity": "SENEGAL",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -23151,12 +23045,12 @@
         ],
         "currencies": [
             {
+                "entity": "SERBIA",
                 "currency": "Serbian Dinar",
                 "alphabeticCode": "RSD",
                 "numericCode": "941",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -23317,12 +23211,12 @@
         ],
         "currencies": [
             {
+                "entity": "SEYCHELLES",
                 "currency": "Seychelles Rupee",
                 "alphabeticCode": "SCR",
                 "numericCode": "690",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -23357,12 +23251,12 @@
         ],
         "currencies": [
             {
+                "entity": "SIERRA LEONE",
                 "currency": "Leone",
                 "alphabeticCode": "SLL",
                 "numericCode": "694",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -23403,12 +23297,12 @@
         ],
         "currencies": [
             {
+                "entity": "SINGAPORE",
                 "currency": "Singapore Dollar",
                 "alphabeticCode": "SGD",
                 "numericCode": "702",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -23418,12 +23312,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "SINT MAARTEN (DUTCH PART)",
                 "currency": "Netherlands Antillean Guilder",
                 "alphabeticCode": "ANG",
                 "numericCode": "532",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -23482,20 +23376,20 @@
         ],
         "currencies": [
             {
+                "entity": "SLOVAKIA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SLOVAKIA",
                 "currency": "Slovak Koruna",
                 "alphabeticCode": "SKK",
                 "numericCode": "703",
                 "minorUnit": "",
-                "withdrawalDate": "2009-01",
-                "remark": ""
+                "withdrawalDate": "2009-01"
             }
         ]
     },
@@ -24712,7 +24606,7 @@
             {
                 "ISO_3166_2": "SI-204",
                 "ISO_3166_2_short": "204",
-                "subdivisionName": "Sveta Trojica v Slovenskih\r\nGoricah",
+                "subdivisionName": "Sveta Trojica v Slovenskih\nGoricah",
                 "subdivisionLevel": "Commune"
             },
             {
@@ -24760,20 +24654,20 @@
         ],
         "currencies": [
             {
+                "entity": "SLOVENIA",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SLOVENIA",
                 "currency": "Tolar",
                 "alphabeticCode": "SIT",
                 "numericCode": "705",
                 "minorUnit": "",
-                "withdrawalDate": "2007-01",
-                "remark": ""
+                "withdrawalDate": "2007-01"
             }
         ]
     },
@@ -24844,12 +24738,12 @@
         ],
         "currencies": [
             {
+                "entity": "SOLOMON ISLANDS",
                 "currency": "Solomon Islands Dollar",
                 "alphabeticCode": "SBD",
                 "numericCode": "090",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -24968,12 +24862,12 @@
         ],
         "currencies": [
             {
+                "entity": "SOMALIA",
                 "currency": "Somali Shilling",
                 "alphabeticCode": "SOS",
                 "numericCode": "706",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -25038,20 +24932,20 @@
         ],
         "currencies": [
             {
+                "entity": "SOUTH AFRICA",
                 "currency": "Rand",
                 "alphabeticCode": "ZAR",
                 "numericCode": "710",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SOUTH AFRICA",
                 "currency": "Financial Rand",
                 "alphabeticCode": "ZAL",
                 "numericCode": "991",
                 "minorUnit": "",
-                "withdrawalDate": "1995-03",
-                "remark": ""
+                "withdrawalDate": "1995-03"
             }
         ]
     },
@@ -25061,12 +24955,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
                 "currency": "No universal currency",
                 "alphabeticCode": "",
                 "numericCode": "",
                 "minorUnit": "",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -25137,20 +25031,20 @@
         ],
         "currencies": [
             {
+                "entity": "SOUTH SUDAN",
                 "currency": "South Sudanese Pound",
                 "alphabeticCode": "SSP",
                 "numericCode": "728",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SOUTH SUDAN",
                 "currency": "Sudanese Pound",
                 "alphabeticCode": "SDG",
                 "numericCode": "938",
                 "minorUnit": "",
-                "withdrawalDate": "2012-09",
-                "remark": ""
+                "withdrawalDate": "2012-09"
             }
         ]
     },
@@ -25473,36 +25367,36 @@
         ],
         "currencies": [
             {
+                "entity": "SPAIN",
                 "currency": "Euro",
                 "alphabeticCode": "EUR",
                 "numericCode": "978",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SPAIN",
                 "currency": "Spanish Peseta",
                 "alphabeticCode": "ESA",
                 "numericCode": "996",
                 "minorUnit": "",
-                "withdrawalDate": "1978 to 1981",
-                "remark": ""
+                "withdrawalDate": "1978 to 1981"
             },
             {
+                "entity": "SPAIN",
                 "currency": "\"\"\"A\"\" Account (convertible Peseta Account)\"",
                 "alphabeticCode": "ESB",
                 "numericCode": "995",
                 "minorUnit": "",
-                "withdrawalDate": "1994-12",
-                "remark": ""
+                "withdrawalDate": "1994-12"
             },
             {
+                "entity": "SPAIN",
                 "currency": "Spanish Peseta",
                 "alphabeticCode": "ESP",
                 "numericCode": "724",
                 "minorUnit": "",
-                "withdrawalDate": "2002-03",
-                "remark": ""
+                "withdrawalDate": "2002-03"
             }
         ]
     },
@@ -25717,12 +25611,12 @@
         ],
         "currencies": [
             {
+                "entity": "SRI LANKA",
                 "currency": "Sri Lanka Rupee",
                 "alphabeticCode": "LKR",
                 "numericCode": "144",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -25835,28 +25729,20 @@
         ],
         "currencies": [
             {
-                "currency": "Sudanese Pound",
-                "alphabeticCode": "SDG",
-                "numericCode": "938",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "SUDAN",
                 "currency": "Sudanese Dinar",
                 "alphabeticCode": "SDD",
                 "numericCode": "736",
                 "minorUnit": "",
-                "withdrawalDate": "2007-07",
-                "remark": ""
+                "withdrawalDate": "2007-07"
             },
             {
+                "entity": "SUDAN",
                 "currency": "Sudanese Pound",
                 "alphabeticCode": "SDP",
-                "numericCode": "",
+                "numericCode": "736",
                 "minorUnit": "",
-                "withdrawalDate": "1998-06",
-                "remark": ""
+                "withdrawalDate": "1998-06"
             }
         ]
     },
@@ -25927,20 +25813,20 @@
         ],
         "currencies": [
             {
+                "entity": "SURINAME",
                 "currency": "Surinam Dollar",
                 "alphabeticCode": "SRD",
                 "numericCode": "968",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SURINAME",
                 "currency": "Surinam Guilder",
                 "alphabeticCode": "SRG",
                 "numericCode": "740",
                 "minorUnit": "",
-                "withdrawalDate": "2003-12",
-                "remark": ""
+                "withdrawalDate": "2003-12"
             }
         ]
     },
@@ -25950,12 +25836,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "SVALBARD AND JAN MAYEN",
                 "currency": "Norwegian Krone",
                 "alphabeticCode": "NOK",
                 "numericCode": "578",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -25990,12 +25876,12 @@
         ],
         "currencies": [
             {
+                "entity": "SWAZILAND",
                 "currency": "Lilangeni",
                 "alphabeticCode": "SZL",
                 "numericCode": "748",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "minorUnit": "",
+                "withdrawalDate": "2018-08"
             }
         ]
     },
@@ -26132,12 +26018,12 @@
         ],
         "currencies": [
             {
+                "entity": "SWEDEN",
                 "currency": "Swedish Krona",
                 "alphabeticCode": "SEK",
                 "numericCode": "752",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -26304,36 +26190,36 @@
         ],
         "currencies": [
             {
-                "currency": "WIR Euro",
-                "alphabeticCode": "CHE",
-                "numericCode": "947",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "SWITZERLAND",
                 "currency": "Swiss Franc",
                 "alphabeticCode": "CHF",
                 "numericCode": "756",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SWITZERLAND",
+                "currency": "WIR Euro",
+                "alphabeticCode": "CHE",
+                "numericCode": "947",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "SWITZERLAND",
                 "currency": "WIR Franc",
                 "alphabeticCode": "CHW",
                 "numericCode": "948",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "SWITZERLAND",
                 "currency": "WIR Franc (for electronic)",
                 "alphabeticCode": "CHC",
                 "numericCode": "948",
                 "minorUnit": "",
-                "withdrawalDate": "2004-11",
-                "remark": ""
+                "withdrawalDate": "2004-11"
             }
         ]
     },
@@ -26428,12 +26314,12 @@
         ],
         "currencies": [
             {
+                "entity": "SYRIAN ARAB REPUBLIC",
                 "currency": "Syrian Pound",
                 "alphabeticCode": "SYP",
                 "numericCode": "760",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -26579,6 +26465,16 @@
                 "subdivisionName": "Taipei",
                 "subdivisionLevel": "Special Municipality"
             }
+        ],
+        "currencies": [
+            {
+                "entity": "TAIWAN (PROVINCE OF CHINA)",
+                "currency": "New Taiwan Dollar",
+                "alphabeticCode": "TWD",
+                "numericCode": "901",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            }
         ]
     },
     {
@@ -26606,28 +26502,28 @@
         ],
         "currencies": [
             {
+                "entity": "TAJIKISTAN",
                 "currency": "Somoni",
                 "alphabeticCode": "TJS",
                 "numericCode": "972",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "TAJIKISTAN",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1995-05",
-                "remark": ""
+                "withdrawalDate": "1995-05"
             },
             {
+                "entity": "TAJIKISTAN",
                 "currency": "Tajik Ruble",
                 "alphabeticCode": "TJR",
                 "numericCode": "762",
                 "minorUnit": "",
-                "withdrawalDate": "2001-04",
-                "remark": ""
+                "withdrawalDate": "2001-04"
             }
         ]
     },
@@ -27262,12 +27158,12 @@
         ],
         "currencies": [
             {
+                "entity": "THAILAND",
                 "currency": "Baht",
                 "alphabeticCode": "THB",
                 "numericCode": "764",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -27356,28 +27252,28 @@
         ],
         "currencies": [
             {
+                "entity": "TIMOR-LESTE",
                 "currency": "US Dollar",
                 "alphabeticCode": "USD",
                 "numericCode": "840",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "TIMOR-LESTE",
                 "currency": "Rupiah",
                 "alphabeticCode": "IDR",
                 "numericCode": "360",
                 "minorUnit": "",
-                "withdrawalDate": "2002-07",
-                "remark": ""
+                "withdrawalDate": "2002-07"
             },
             {
+                "entity": "TIMOR-LESTE",
                 "currency": "Timor Escudo",
                 "alphabeticCode": "TPE",
                 "numericCode": "626",
                 "minorUnit": "",
-                "withdrawalDate": "2002-11",
-                "remark": ""
+                "withdrawalDate": "2002-11"
             }
         ]
     },
@@ -27418,12 +27314,12 @@
         ],
         "currencies": [
             {
+                "entity": "TOGO",
                 "currency": "CFA Franc BCEAO",
                 "alphabeticCode": "XOF",
                 "numericCode": "952",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -27433,12 +27329,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "TOKELAU",
                 "currency": "New Zealand Dollar",
                 "alphabeticCode": "NZD",
                 "numericCode": "554",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -27479,12 +27375,12 @@
         ],
         "currencies": [
             {
+                "entity": "TONGA",
                 "currency": "Pa’anga",
                 "alphabeticCode": "TOP",
                 "numericCode": "776",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -27591,12 +27487,12 @@
         ],
         "currencies": [
             {
+                "entity": "TRINIDAD AND TOBAGO",
                 "currency": "Trinidad and Tobago Dollar",
                 "alphabeticCode": "TTD",
                 "numericCode": "780",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -27751,12 +27647,12 @@
         ],
         "currencies": [
             {
+                "entity": "TUNISIA",
                 "currency": "Tunisian Dinar",
                 "alphabeticCode": "TND",
                 "numericCode": "788",
                 "minorUnit": "3",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -28253,28 +28149,28 @@
         ],
         "currencies": [
             {
+                "entity": "TURKEY",
                 "currency": "Turkish Lira",
                 "alphabeticCode": "TRY",
                 "numericCode": "949",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "TURKEY",
                 "currency": "Old Turkish Lira",
                 "alphabeticCode": "TRL",
                 "numericCode": "792",
                 "minorUnit": "",
-                "withdrawalDate": "2005-12",
-                "remark": ""
+                "withdrawalDate": "2005-12"
             },
             {
+                "entity": "TURKEY",
                 "currency": "New Turkish Lira",
                 "alphabeticCode": "TRY",
                 "numericCode": "949",
                 "minorUnit": "",
-                "withdrawalDate": "2009-01",
-                "remark": ""
+                "withdrawalDate": "2009-01"
             }
         ]
     },
@@ -28321,45 +28217,35 @@
         ],
         "currencies": [
             {
+                "entity": "TURKMENISTAN",
                 "currency": "Turkmenistan New Manat",
                 "alphabeticCode": "TMT",
                 "numericCode": "934",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "TURKMENISTAN",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1993-10",
-                "remark": ""
+                "withdrawalDate": "1993-10"
             },
             {
+                "entity": "TURKMENISTAN",
                 "currency": "Turkmenistan Manat",
                 "alphabeticCode": "TMM",
                 "numericCode": "795",
                 "minorUnit": "",
-                "withdrawalDate": "2009-01",
-                "remark": ""
+                "withdrawalDate": "2009-01"
             }
         ]
     },
     {
         "isocode": "TC",
         "countryName": "Turks and Caicos Islands",
-        "subdivisions": [],
-        "currencies": [
-            {
-                "currency": "US Dollar",
-                "alphabeticCode": "USD",
-                "numericCode": "840",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
-        ]
+        "subdivisions": []
     },
     {
         "isocode": "TV",
@@ -28416,12 +28302,12 @@
         ],
         "currencies": [
             {
+                "entity": "TUVALU",
                 "currency": "Australian Dollar",
                 "alphabeticCode": "AUD",
                 "numericCode": "036",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -28936,28 +28822,28 @@
         ],
         "currencies": [
             {
+                "entity": "UGANDA",
                 "currency": "Uganda Shilling",
                 "alphabeticCode": "UGX",
                 "numericCode": "800",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "UGANDA",
                 "currency": "Uganda Shilling",
                 "alphabeticCode": "UGS",
-                "numericCode": "",
+                "numericCode": "800",
                 "minorUnit": "",
-                "withdrawalDate": "1987-05",
-                "remark": ""
+                "withdrawalDate": "1987-05"
             },
             {
+                "entity": "UGANDA",
                 "currency": "Old Shilling",
                 "alphabeticCode": "UGW",
-                "numericCode": "",
+                "numericCode": "800",
                 "minorUnit": "",
-                "withdrawalDate": "1989 to 1990",
-                "remark": ""
+                "withdrawalDate": "1989 to 1990"
             }
         ]
     },
@@ -29124,20 +29010,20 @@
         ],
         "currencies": [
             {
+                "entity": "UKRAINE",
                 "currency": "Hryvnia",
                 "alphabeticCode": "UAH",
                 "numericCode": "980",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "UKRAINE",
                 "currency": "Karbovanet",
                 "alphabeticCode": "UAK",
                 "numericCode": "804",
                 "minorUnit": "",
-                "withdrawalDate": "1996-09",
-                "remark": ""
+                "withdrawalDate": "1996-09"
             }
         ]
     },
@@ -29186,16 +29072,6 @@
                 "ISO_3166_2_short": "UQ",
                 "subdivisionName": "Umm al Qaywayn",
                 "subdivisionLevel": "Emirate"
-            }
-        ],
-        "currencies": [
-            {
-                "currency": "UAE Dirham",
-                "alphabeticCode": "AED",
-                "numericCode": "784",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
             }
         ]
     },
@@ -30589,16 +30465,6 @@
                 "subdivisionName": "Shetland Islands",
                 "subdivisionLevel": "Council area"
             }
-        ],
-        "currencies": [
-            {
-                "currency": "Pound Sterling",
-                "alphabeticCode": "GBP",
-                "numericCode": "826",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            }
         ]
     },
     {
@@ -30950,28 +30816,12 @@
         ],
         "currencies": [
             {
-                "currency": "US Dollar",
-                "alphabeticCode": "USD",
-                "numericCode": "840",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
-                "currency": "US Dollar (Next day)",
-                "alphabeticCode": "USN",
-                "numericCode": "997",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "UNITED STATES",
                 "currency": "US Dollar (Same day)",
                 "alphabeticCode": "USS",
                 "numericCode": "998",
                 "minorUnit": "",
-                "withdrawalDate": "2014-03",
-                "remark": ""
+                "withdrawalDate": "2014-03"
             }
         ]
     },
@@ -31032,16 +30882,6 @@
                 "ISO_3166_2_short": "95",
                 "subdivisionName": "Palmyra Atoll",
                 "subdivisionLevel": "Islands, groups of islands"
-            }
-        ],
-        "currencies": [
-            {
-                "currency": "US Dollar",
-                "alphabeticCode": "USD",
-                "numericCode": "840",
-                "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
             }
         ]
     },
@@ -31166,36 +31006,44 @@
         ],
         "currencies": [
             {
-                "currency": "Uruguay Peso en Unidades Indexadas (URUIURUI)",
-                "alphabeticCode": "UYI",
-                "numericCode": "940",
-                "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
-            },
-            {
+                "entity": "URUGUAY",
                 "currency": "Peso Uruguayo",
                 "alphabeticCode": "UYU",
                 "numericCode": "858",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "URUGUAY",
+                "currency": "Uruguay Peso en Unidades Indexadas (UI)",
+                "alphabeticCode": "UYI",
+                "numericCode": "940",
+                "minorUnit": "0",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "URUGUAY",
+                "currency": "Unidad Previsional",
+                "alphabeticCode": "UYW",
+                "numericCode": "927",
+                "minorUnit": "4",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "URUGUAY",
                 "currency": "Old Uruguay Peso",
                 "alphabeticCode": "UYN",
-                "numericCode": "",
+                "numericCode": "858",
                 "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
+                "withdrawalDate": "1989-12"
             },
             {
+                "entity": "URUGUAY",
                 "currency": "Uruguayan Peso",
                 "alphabeticCode": "UYP",
-                "numericCode": "",
+                "numericCode": "858",
                 "minorUnit": "",
-                "withdrawalDate": "1993-03",
-                "remark": ""
+                "withdrawalDate": "1993-03"
             }
         ]
     },
@@ -31296,20 +31144,20 @@
         ],
         "currencies": [
             {
+                "entity": "UZBEKISTAN",
                 "currency": "Uzbekistan Sum",
                 "alphabeticCode": "UZS",
                 "numericCode": "860",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "UZBEKISTAN",
                 "currency": "Russian Ruble",
                 "alphabeticCode": "RUR",
                 "numericCode": "810",
                 "minorUnit": "",
-                "withdrawalDate": "1994-07",
-                "remark": ""
+                "withdrawalDate": "1994-07"
             }
         ]
     },
@@ -31356,12 +31204,12 @@
         ],
         "currencies": [
             {
+                "entity": "VANUATU",
                 "currency": "Vatu",
                 "alphabeticCode": "VUV",
                 "numericCode": "548",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -31518,6 +31366,32 @@
                 "ISO_3166_2_short": "Z",
                 "subdivisionName": "Amazonas",
                 "subdivisionLevel": "State"
+            }
+        ],
+        "currencies": [
+            {
+                "entity": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+                "currency": "Bolívar Soberano",
+                "alphabeticCode": "VES",
+                "numericCode": "928",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+                "currency": "Bolivar",
+                "alphabeticCode": "VEF",
+                "numericCode": "937",
+                "minorUnit": "",
+                "withdrawalDate": "2016-02"
+            },
+            {
+                "entity": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+                "currency": "Bolívar",
+                "alphabeticCode": "VEF",
+                "numericCode": "937",
+                "minorUnit": "",
+                "withdrawalDate": "2018-08"
             }
         ]
     },
@@ -31924,24 +31798,44 @@
         ],
         "currencies": [
             {
+                "entity": "VIET NAM",
                 "currency": "Dong",
                 "alphabeticCode": "VND",
                 "numericCode": "704",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
     {
         "isocode": "VG",
         "countryName": "Virgin Islands, British",
-        "subdivisions": []
+        "subdivisions": [],
+        "currencies": [
+            {
+                "entity": "VIRGIN ISLANDS (BRITISH)",
+                "currency": "US Dollar",
+                "alphabeticCode": "USD",
+                "numericCode": "840",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            }
+        ]
     },
     {
         "isocode": "VI",
         "countryName": "Virgin Islands, U.S.",
-        "subdivisions": []
+        "subdivisions": [],
+        "currencies": [
+            {
+                "entity": "VIRGIN ISLANDS (U.S.)",
+                "currency": "US Dollar",
+                "alphabeticCode": "USD",
+                "numericCode": "840",
+                "minorUnit": "2",
+                "withdrawalDate": ""
+            }
+        ]
     },
     {
         "isocode": "WF",
@@ -31949,12 +31843,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "WALLIS AND FUTUNA",
                 "currency": "CFP Franc",
                 "alphabeticCode": "XPF",
                 "numericCode": "953",
                 "minorUnit": "0",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -31964,12 +31858,12 @@
         "subdivisions": [],
         "currencies": [
             {
+                "entity": "WESTERN SAHARA",
                 "currency": "Moroccan Dirham",
                 "alphabeticCode": "MAD",
                 "numericCode": "504",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             }
         ]
     },
@@ -32106,12 +32000,20 @@
         ],
         "currencies": [
             {
+                "entity": "YEMEN",
                 "currency": "Yemeni Rial",
                 "alphabeticCode": "YER",
                 "numericCode": "886",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
+            },
+            {
+                "entity": "\"YEMEN",
+                "currency": "DEMOCRATIC\"",
+                "alphabeticCode": "Yemeni Dinar",
+                "numericCode": "YDD",
+                "minorUnit": "720",
+                "withdrawalDate": ""
             }
         ]
     },
@@ -32176,20 +32078,20 @@
         ],
         "currencies": [
             {
+                "entity": "ZAMBIA",
                 "currency": "Zambian Kwacha",
                 "alphabeticCode": "ZMW",
                 "numericCode": "967",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ZAMBIA",
                 "currency": "Zambian Kwacha",
                 "alphabeticCode": "ZMK",
                 "numericCode": "894",
                 "minorUnit": "",
-                "withdrawalDate": "2012-12",
-                "remark": ""
+                "withdrawalDate": "2012-12"
             }
         ]
     },
@@ -32260,52 +32162,52 @@
         ],
         "currencies": [
             {
+                "entity": "ZIMBABWE",
                 "currency": "Zimbabwe Dollar",
                 "alphabeticCode": "ZWL",
                 "numericCode": "932",
                 "minorUnit": "2",
-                "withdrawalDate": "",
-                "remark": ""
+                "withdrawalDate": ""
             },
             {
+                "entity": "ZIMBABWE",
                 "currency": "Rhodesian Dollar",
                 "alphabeticCode": "ZWC",
-                "numericCode": "",
+                "numericCode": "716",
                 "minorUnit": "",
-                "withdrawalDate": "1989-12",
-                "remark": ""
+                "withdrawalDate": "1989-12"
             },
             {
+                "entity": "ZIMBABWE",
                 "currency": "Zimbabwe Dollar (old)",
                 "alphabeticCode": "ZWD",
                 "numericCode": "716",
                 "minorUnit": "",
-                "withdrawalDate": "2006-08",
-                "remark": ""
+                "withdrawalDate": "2006-08"
             },
             {
+                "entity": "ZIMBABWE",
                 "currency": "Zimbabwe Dollar",
                 "alphabeticCode": "ZWD",
                 "numericCode": "716",
                 "minorUnit": "",
-                "withdrawalDate": "2008-08",
-                "remark": ""
+                "withdrawalDate": "2008-08"
             },
             {
+                "entity": "ZIMBABWE",
                 "currency": "Zimbabwe Dollar (new)",
                 "alphabeticCode": "ZWN",
                 "numericCode": "942",
                 "minorUnit": "",
-                "withdrawalDate": "2006-09",
-                "remark": ""
+                "withdrawalDate": "2006-09"
             },
             {
+                "entity": "ZIMBABWE",
                 "currency": "Zimbabwe Dollar",
                 "alphabeticCode": "ZWR",
                 "numericCode": "935",
                 "minorUnit": "",
-                "withdrawalDate": "2009-06",
-                "remark": ""
+                "withdrawalDate": "2009-06"
             }
         ]
     }
