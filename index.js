@@ -20,6 +20,7 @@ async function main() {
 }
 
 async function scrapISO3361() {
+	console.log("\nISO-3361 scrapping started...")
 	const t = Date.now()
 	const data = await ISO3361CountryScrapper.scrapRemoteData()
 	console.log("\nSuccessful ISO-3361 scrapping.")
@@ -30,6 +31,7 @@ async function scrapISO3361() {
 }
 
 async function scrapISO4717() {
+	console.log("\nISO-4717 scrapping started...")
 	const data = await ISO4717CurrencyScrapper.scrapRemoteData()
 	console.log("\nSuccessful ISO-4717 scrapping.")
 	await writeFileAsync("ISO-4717.json", JSON.stringify(data, null, 4))
