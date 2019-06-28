@@ -1,0 +1,2775 @@
+[
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/23px-Flag_of_the_Republic_of_Abkhazia.svg.png",
+        "countryName": "Abkhazia",
+        "countryLink": "/wiki/Abkhazia",
+        "currencyName": "Abkhazian apsar[E]",
+        "symbol": "(none)",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "(none)",
+        "numberToBasic": "(none)"
+    },
+    {
+        "countryName": "Russian ruble",
+        "countryLink": "/wiki/Russian_ruble",
+        "currencyName": "₽",
+        "symbol": "RUB",
+        "currencyISOCode": "Kopek",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/23px-Flag_of_Afghanistan.svg.png",
+        "countryName": "Afghanistan",
+        "countryLink": "/wiki/Afghanistan",
+        "currencyName": "Afghan afghani",
+        "symbol": "؋",
+        "currencyISOCode": "AFN",
+        "fractionalUnit": "Pul",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "countryName": "Akrotiri and Dhekelia",
+        "countryLink": "/wiki/Akrotiri_and_Dhekelia",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/21px-Flag_of_Albania.svg.png",
+        "countryName": "Albania",
+        "countryLink": "/wiki/Albania",
+        "currencyName": "Albanian lek",
+        "symbol": "L",
+        "currencyISOCode": "ALL",
+        "fractionalUnit": "Qindarkë",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Alderney.svg/23px-Flag_of_Alderney.svg.png",
+        "countryName": "Alderney",
+        "countryLink": "/wiki/Alderney",
+        "currencyName": "Alderney pound[E]",
+        "symbol": "£",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "British pound[F]",
+        "countryLink": "/wiki/Pound_sterling",
+        "currencyName": "£",
+        "symbol": "GBP",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Guernsey pound",
+        "countryLink": "/wiki/Guernsey_pound",
+        "currencyName": "£",
+        "symbol": "GGP[G]",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/23px-Flag_of_Algeria.svg.png",
+        "countryName": "Algeria",
+        "countryLink": "/wiki/Algeria",
+        "currencyName": "Algerian dinar",
+        "symbol": "د.ج",
+        "currencyISOCode": "DZD",
+        "fractionalUnit": "Santeem",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/22px-Flag_of_Andorra.svg.png",
+        "countryName": "Andorra",
+        "countryLink": "/wiki/Andorra",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/23px-Flag_of_Angola.svg.png",
+        "countryName": "Angola",
+        "countryLink": "/wiki/Angola",
+        "currencyName": "Angolan kwanza",
+        "symbol": "Kz",
+        "currencyISOCode": "AOA",
+        "fractionalUnit": "Cêntimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/23px-Flag_of_Anguilla.svg.png",
+        "countryName": "Anguilla",
+        "countryLink": "/wiki/Anguilla",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/23px-Flag_of_Antigua_and_Barbuda.svg.png",
+        "countryName": "Antigua and Barbuda",
+        "countryLink": "/wiki/Antigua_and_Barbuda",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png",
+        "countryName": "Argentina",
+        "countryLink": "/wiki/Argentina",
+        "currencyName": "Argentine peso",
+        "symbol": "$",
+        "currencyISOCode": "ARS",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/23px-Flag_of_Armenia.svg.png",
+        "countryName": "Armenia",
+        "countryLink": "/wiki/Armenia",
+        "currencyName": "Armenian dram",
+        "symbol": "֏",
+        "currencyISOCode": "AMD",
+        "fractionalUnit": "Luma",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/23px-Flag_of_Artsakh.svg.png",
+        "countryName": "Artsakh",
+        "countryLink": "/wiki/Republic_of_Artsakh",
+        "currencyName": "Artsakh dram[E]",
+        "symbol": "դր.",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Luma",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Armenian dram",
+        "countryLink": "/wiki/Armenian_dram",
+        "currencyName": "֏",
+        "symbol": "AMD",
+        "currencyISOCode": "Luma",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Aruba.svg/23px-Flag_of_Aruba.svg.png",
+        "countryName": "Aruba",
+        "countryLink": "/wiki/Aruba",
+        "currencyName": "Aruban florin",
+        "symbol": "ƒ",
+        "currencyISOCode": "AWG",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Ascension Island",
+        "countryLink": "/wiki/United_Kingdom",
+        "currencyName": "Ascension pound[E]",
+        "symbol": "£",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Saint Helena pound",
+        "countryLink": "/wiki/Saint_Helena_pound",
+        "currencyName": "£",
+        "symbol": "SHP",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png",
+        "countryName": "Australia",
+        "countryLink": "/wiki/Australia",
+        "currencyName": "Australian dollar",
+        "symbol": "$",
+        "currencyISOCode": "AUD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/23px-Flag_of_Austria.svg.png",
+        "countryName": "Austria",
+        "countryLink": "/wiki/Austria",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/23px-Flag_of_Azerbaijan.svg.png",
+        "countryName": "Azerbaijan",
+        "countryLink": "/wiki/Azerbaijan",
+        "currencyName": "Azerbaijani manat",
+        "symbol": "₼",
+        "currencyISOCode": "AZN",
+        "fractionalUnit": "Qəpik",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/23px-Flag_of_the_Bahamas.svg.png",
+        "countryName": "Bahamas, The",
+        "countryLink": "/wiki/The_Bahamas",
+        "currencyName": "Bahamian dollar",
+        "symbol": "$",
+        "currencyISOCode": "BSD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/23px-Flag_of_Bahrain.svg.png",
+        "countryName": "Bahrain",
+        "countryLink": "/wiki/Bahrain",
+        "currencyName": "Bahraini dinar",
+        "symbol": ".د.ب",
+        "currencyISOCode": "BHD",
+        "fractionalUnit": "Fils",
+        "numberToBasic": "1000"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/23px-Flag_of_Bangladesh.svg.png",
+        "countryName": "Bangladesh",
+        "countryLink": "/wiki/Bangladesh",
+        "currencyName": "Bangladeshi taka",
+        "symbol": "৳",
+        "currencyISOCode": "BDT",
+        "fractionalUnit": "Poisha",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/23px-Flag_of_Barbados.svg.png",
+        "countryName": "Barbados",
+        "countryLink": "/wiki/Barbados",
+        "currencyName": "Barbadian dollar",
+        "symbol": "$",
+        "currencyISOCode": "BBD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png",
+        "countryName": "Belarus",
+        "countryLink": "/wiki/Belarus",
+        "currencyName": "Belarusian ruble",
+        "symbol": "Br",
+        "currencyISOCode": "BYN",
+        "fractionalUnit": "Kapyeyka",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/23px-Flag_of_Belgium_%28civil%29.svg.png",
+        "countryName": "Belgium",
+        "countryLink": "/wiki/Belgium",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/23px-Flag_of_Belize.svg.png",
+        "countryName": "Belize",
+        "countryLink": "/wiki/Belize",
+        "currencyName": "Belize dollar",
+        "symbol": "$",
+        "currencyISOCode": "BZD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/23px-Flag_of_Benin.svg.png",
+        "countryName": "Benin",
+        "countryLink": "/wiki/Benin",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bermuda.svg/23px-Flag_of_Bermuda.svg.png",
+        "countryName": "Bermuda",
+        "countryLink": "/wiki/Bermuda",
+        "currencyName": "Bermudian dollar",
+        "symbol": "$",
+        "currencyISOCode": "BMD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/23px-Flag_of_Bhutan.svg.png",
+        "countryName": "Bhutan",
+        "countryLink": "/wiki/Bhutan",
+        "currencyName": "Bhutanese ngultrum",
+        "symbol": "Nu.",
+        "currencyISOCode": "BTN",
+        "fractionalUnit": "Chetrum",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Indian rupee",
+        "countryLink": "/wiki/Indian_rupee",
+        "currencyName": "₹",
+        "symbol": "INR",
+        "currencyISOCode": "Paisa",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/22px-Flag_of_Bolivia.svg.png",
+        "countryName": "Bolivia",
+        "countryLink": "/wiki/Bolivia",
+        "currencyName": "Bolivian boliviano",
+        "symbol": "Bs.",
+        "currencyISOCode": "BOB",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Bonaire.svg/23px-Flag_of_Bonaire.svg.png",
+        "countryName": "Bonaire",
+        "countryLink": "/wiki/Bonaire",
+        "currencyName": "United States dollar[H]",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/23px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+        "countryName": "Bosnia and Herzegovina",
+        "countryLink": "/wiki/Bosnia_and_Herzegovina",
+        "currencyName": "Bosnia and Herzegovina convertible mark",
+        "symbol": "KM or КМ[I]",
+        "currencyISOCode": "BAM",
+        "fractionalUnit": "Fening",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/23px-Flag_of_Botswana.svg.png",
+        "countryName": "Botswana",
+        "countryLink": "/wiki/Botswana",
+        "currencyName": "Botswana pula",
+        "symbol": "P",
+        "currencyISOCode": "BWP",
+        "fractionalUnit": "Thebe",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+        "countryName": "Brazil",
+        "countryLink": "/wiki/Brazil",
+        "currencyName": "Brazilian real",
+        "symbol": "R$",
+        "currencyISOCode": "BRL",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_the_British_Indian_Ocean_Territory.svg/23px-Flag_of_the_British_Indian_Ocean_Territory.svg.png",
+        "countryName": "British Indian Ocean Territory",
+        "countryLink": "/wiki/British_Indian_Ocean_Territory",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_British_Virgin_Islands.svg/23px-Flag_of_the_British_Virgin_Islands.svg.png",
+        "countryName": "British Virgin Islands",
+        "countryLink": "/wiki/British_Virgin_Islands",
+        "currencyName": "British Virgin Islands dollar[E]",
+        "symbol": "$",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "United States dollar",
+        "countryLink": "/wiki/United_States_dollar",
+        "currencyName": "$",
+        "symbol": "USD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/23px-Flag_of_Brunei.svg.png",
+        "countryName": "Brunei",
+        "countryLink": "/wiki/Brunei",
+        "currencyName": "Brunei dollar",
+        "symbol": "$",
+        "currencyISOCode": "BND",
+        "fractionalUnit": "Sen",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Singapore dollar",
+        "countryLink": "/wiki/Singapore_dollar",
+        "currencyName": "$",
+        "symbol": "SGD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/23px-Flag_of_Bulgaria.svg.png",
+        "countryName": "Bulgaria",
+        "countryLink": "/wiki/Bulgaria",
+        "currencyName": "Bulgarian lev",
+        "symbol": "лв",
+        "currencyISOCode": "BGN",
+        "fractionalUnit": "Stotinka",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/23px-Flag_of_Burkina_Faso.svg.png",
+        "countryName": "Burkina Faso",
+        "countryLink": "/wiki/Burkina_Faso",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/23px-Flag_of_Burundi.svg.png",
+        "countryName": "Burundi",
+        "countryLink": "/wiki/Burundi",
+        "currencyName": "Burundian franc",
+        "symbol": "Fr",
+        "currencyISOCode": "BIF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/23px-Flag_of_Cambodia.svg.png",
+        "countryName": "Cambodia",
+        "countryLink": "/wiki/Cambodia",
+        "currencyName": "Cambodian riel",
+        "symbol": "៛",
+        "currencyISOCode": "KHR",
+        "fractionalUnit": "Sen",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "United States dollar",
+        "countryLink": "/wiki/United_States_dollar",
+        "currencyName": "$",
+        "symbol": "USD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/23px-Flag_of_Cameroon.svg.png",
+        "countryName": "Cameroon",
+        "countryLink": "/wiki/Cameroon",
+        "currencyName": "Central African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XAF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png",
+        "countryName": "Canada",
+        "countryLink": "/wiki/Canada",
+        "currencyName": "Canadian dollar",
+        "symbol": "$",
+        "currencyISOCode": "CAD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/23px-Flag_of_Cape_Verde.svg.png",
+        "countryName": "Cape Verde",
+        "countryLink": "/wiki/Cape_Verde",
+        "currencyName": "Cape Verdean escudo",
+        "symbol": "Esc or $",
+        "currencyISOCode": "CVE",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Cayman_Islands.svg/23px-Flag_of_the_Cayman_Islands.svg.png",
+        "countryName": "Cayman Islands",
+        "countryLink": "/wiki/Cayman_Islands",
+        "currencyName": "Cayman Islands dollar",
+        "symbol": "$",
+        "currencyISOCode": "KYD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/23px-Flag_of_the_Central_African_Republic.svg.png",
+        "countryName": "Central African Republic",
+        "countryLink": "/wiki/Central_African_Republic",
+        "currencyName": "Central African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XAF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/23px-Flag_of_Chad.svg.png",
+        "countryName": "Chad",
+        "countryLink": "/wiki/Chad",
+        "currencyName": "Central African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XAF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/23px-Flag_of_Chile.svg.png",
+        "countryName": "Chile",
+        "countryLink": "/wiki/Chile",
+        "currencyName": "Chilean peso",
+        "symbol": "$",
+        "currencyISOCode": "CLP",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+        "countryName": "China",
+        "countryLink": "/wiki/China",
+        "currencyName": "Chinese yuan",
+        "symbol": "¥ or 元",
+        "currencyISOCode": "CNY",
+        "fractionalUnit": "Fen[J]",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/23px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png",
+        "countryName": "Cocos (Keeling) Islands",
+        "countryLink": "/wiki/Cocos_(Keeling)_Islands",
+        "currencyName": "Australian dollar",
+        "symbol": "$",
+        "currencyISOCode": "AUD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/23px-Flag_of_Colombia.svg.png",
+        "countryName": "Colombia",
+        "countryLink": "/wiki/Colombia",
+        "currencyName": "Colombian peso",
+        "symbol": "$",
+        "currencyISOCode": "COP",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/23px-Flag_of_the_Comoros.svg.png",
+        "countryName": "Comoros",
+        "countryLink": "/wiki/Comoros",
+        "currencyName": "Comorian franc",
+        "symbol": "Fr",
+        "currencyISOCode": "KMF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/20px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+        "countryName": "Congo, Democratic Republic of the",
+        "countryLink": "/wiki/Democratic_Republic_of_the_Congo",
+        "currencyName": "Congolese franc",
+        "symbol": "Fr",
+        "currencyISOCode": "CDF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/23px-Flag_of_the_Republic_of_the_Congo.svg.png",
+        "countryName": "Congo, Republic of the",
+        "countryLink": "/wiki/Republic_of_the_Congo",
+        "currencyName": "Central African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XAF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/23px-Flag_of_the_Cook_Islands.svg.png",
+        "countryName": "Cook Islands",
+        "countryLink": "/wiki/Cook_Islands",
+        "currencyName": "Cook Islands dollar",
+        "symbol": "$",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "New Zealand dollar",
+        "countryLink": "/wiki/New_Zealand_dollar",
+        "currencyName": "$",
+        "symbol": "NZD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/23px-Flag_of_Costa_Rica.svg.png",
+        "countryName": "Costa Rica",
+        "countryLink": "/wiki/Costa_Rica",
+        "currencyName": "Costa Rican colón",
+        "symbol": "₡",
+        "currencyISOCode": "CRC",
+        "fractionalUnit": "Céntimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/23px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+        "countryName": "Côte d'Ivoire",
+        "countryLink": "/wiki/Ivory_Coast",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png",
+        "countryName": "Croatia",
+        "countryLink": "/wiki/Croatia",
+        "currencyName": "Croatian kuna",
+        "symbol": "kn",
+        "currencyISOCode": "HRK",
+        "fractionalUnit": "Lipa",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/23px-Flag_of_Cuba.svg.png",
+        "countryName": "Cuba",
+        "countryLink": "/wiki/Cuba",
+        "currencyName": "Cuban peso",
+        "symbol": "$",
+        "currencyISOCode": "CUP",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Cuban convertible peso",
+        "countryLink": "/wiki/Cuban_convertible_peso",
+        "currencyName": "$",
+        "symbol": "CUC",
+        "currencyISOCode": "Centavo",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/23px-Flag_of_Cura%C3%A7ao.svg.png",
+        "countryName": "Curaçao",
+        "countryLink": "/wiki/Cura%C3%A7ao",
+        "currencyName": "Netherlands Antillean guilder",
+        "symbol": "ƒ",
+        "currencyISOCode": "ANG",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/23px-Flag_of_Cyprus.svg.png",
+        "countryName": "Cyprus",
+        "countryLink": "/wiki/Cyprus",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png",
+        "countryName": "Czech Republic",
+        "countryLink": "/wiki/Czech_Republic",
+        "currencyName": "Czech koruna",
+        "symbol": "Kč",
+        "currencyISOCode": "CZK",
+        "fractionalUnit": "Haléř",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/20px-Flag_of_Denmark.svg.png",
+        "countryName": "Denmark",
+        "countryLink": "/wiki/Denmark",
+        "currencyName": "Danish krone",
+        "symbol": "kr",
+        "currencyISOCode": "DKK",
+        "fractionalUnit": "Øre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/23px-Flag_of_Djibouti.svg.png",
+        "countryName": "Djibouti",
+        "countryLink": "/wiki/Djibouti",
+        "currencyName": "Djiboutian franc",
+        "symbol": "Fr",
+        "currencyISOCode": "DJF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/23px-Flag_of_Dominica.svg.png",
+        "countryName": "Dominica",
+        "countryLink": "/wiki/Dominica",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/23px-Flag_of_the_Dominican_Republic.svg.png",
+        "countryName": "Dominican Republic",
+        "countryLink": "/wiki/Dominican_Republic",
+        "currencyName": "Dominican peso",
+        "symbol": "$",
+        "currencyISOCode": "DOP",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/23px-Flag_of_East_Timor.svg.png",
+        "countryName": "East Timor",
+        "countryLink": "/wiki/East_Timor",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "(none)",
+        "currencyName": "(none)",
+        "symbol": "(none)",
+        "currencyISOCode": "Centavo[K][L]",
+        "fractionalUnit": "(none)",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/23px-Flag_of_Ecuador.svg.png",
+        "countryName": "Ecuador",
+        "countryLink": "/wiki/Ecuador",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "(none)",
+        "currencyName": "(none)",
+        "symbol": "(none)",
+        "currencyISOCode": "Centavo[K][L]",
+        "fractionalUnit": "(none)",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/23px-Flag_of_Egypt.svg.png",
+        "countryName": "Egypt",
+        "countryLink": "/wiki/Egypt",
+        "currencyName": "Egyptian pound",
+        "symbol": "£ or ج.م",
+        "currencyISOCode": "EGP",
+        "fractionalUnit": "Piastre[B]",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/23px-Flag_of_El_Salvador.svg.png",
+        "countryName": "El Salvador",
+        "countryLink": "/wiki/El_Salvador",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/23px-Flag_of_Equatorial_Guinea.svg.png",
+        "countryName": "Equatorial Guinea",
+        "countryLink": "/wiki/Equatorial_Guinea",
+        "currencyName": "Central African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XAF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/23px-Flag_of_Eritrea.svg.png",
+        "countryName": "Eritrea",
+        "countryLink": "/wiki/Eritrea",
+        "currencyName": "Eritrean nakfa",
+        "symbol": "Nfk",
+        "currencyISOCode": "ERN",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/23px-Flag_of_Estonia.svg.png",
+        "countryName": "Estonia",
+        "countryLink": "/wiki/Estonia",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/23px-Flag_of_Eswatini.svg.png",
+        "countryName": "Eswatini",
+        "countryLink": "/wiki/Eswatini",
+        "currencyName": "Swazi lilangeni",
+        "symbol": "L",
+        "currencyISOCode": "SZL",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/23px-Flag_of_Ethiopia.svg.png",
+        "countryName": "Ethiopia",
+        "countryLink": "/wiki/Ethiopia",
+        "currencyName": "Ethiopian birr",
+        "symbol": "Br",
+        "currencyISOCode": "ETB",
+        "fractionalUnit": "Santim",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_Falkland_Islands.svg/23px-Flag_of_the_Falkland_Islands.svg.png",
+        "countryName": "Falkland Islands",
+        "countryLink": "/wiki/Falkland_Islands",
+        "currencyName": "Falkland Islands pound",
+        "symbol": "£",
+        "currencyISOCode": "FKP",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/21px-Flag_of_the_Faroe_Islands.svg.png",
+        "countryName": "Faroe Islands",
+        "countryLink": "/wiki/Faroe_Islands",
+        "currencyName": "Danish krone",
+        "symbol": "kr",
+        "currencyISOCode": "DKK",
+        "fractionalUnit": "Øre",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Faroese króna",
+        "countryLink": "/wiki/Faroese_kr%C3%B3na",
+        "currencyName": "kr",
+        "symbol": "(none)",
+        "currencyISOCode": "Oyra",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/23px-Flag_of_Fiji.svg.png",
+        "countryName": "Fiji",
+        "countryLink": "/wiki/Fiji",
+        "currencyName": "Fijian dollar",
+        "symbol": "$",
+        "currencyISOCode": "FJD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png",
+        "countryName": "Finland",
+        "countryLink": "/wiki/Finland",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "countryName": "France",
+        "countryLink": "/wiki/France",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_French_Polynesia.svg/23px-Flag_of_French_Polynesia.svg.png",
+        "countryName": "French Polynesia",
+        "countryLink": "/wiki/French_Polynesia",
+        "currencyName": "CFP franc",
+        "symbol": "₣",
+        "currencyISOCode": "XPF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/20px-Flag_of_Gabon.svg.png",
+        "countryName": "Gabon",
+        "countryLink": "/wiki/Gabon",
+        "currencyName": "Central African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XAF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/23px-Flag_of_The_Gambia.svg.png",
+        "countryName": "Gambia, The",
+        "countryLink": "/wiki/The_Gambia",
+        "currencyName": "Gambian dalasi",
+        "symbol": "D",
+        "currencyISOCode": "GMD",
+        "fractionalUnit": "Butut",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/23px-Flag_of_Georgia.svg.png",
+        "countryName": "Georgia",
+        "countryLink": "/wiki/Georgia_(country)",
+        "currencyName": "Georgian lari",
+        "symbol": "₾",
+        "currencyISOCode": "GEL",
+        "fractionalUnit": "Tetri",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png",
+        "countryName": "Germany",
+        "countryLink": "/wiki/Germany",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/23px-Flag_of_Ghana.svg.png",
+        "countryName": "Ghana",
+        "countryLink": "/wiki/Ghana",
+        "currencyName": "Ghanaian cedi",
+        "symbol": "₵",
+        "currencyISOCode": "GHS",
+        "fractionalUnit": "Pesewa",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/23px-Flag_of_Gibraltar.svg.png",
+        "countryName": "Gibraltar",
+        "countryLink": "/wiki/Gibraltar",
+        "currencyName": "Gibraltar pound",
+        "symbol": "£",
+        "currencyISOCode": "GIP",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/23px-Flag_of_Greece.svg.png",
+        "countryName": "Greece",
+        "countryLink": "/wiki/Greece",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/23px-Flag_of_Grenada.svg.png",
+        "countryName": "Grenada",
+        "countryLink": "/wiki/Grenada",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/23px-Flag_of_Guatemala.svg.png",
+        "countryName": "Guatemala",
+        "countryLink": "/wiki/Guatemala",
+        "currencyName": "Guatemalan quetzal",
+        "symbol": "Q",
+        "currencyISOCode": "GTQ",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/23px-Flag_of_Guernsey.svg.png",
+        "countryName": "Guernsey",
+        "countryLink": "/wiki/Guernsey",
+        "currencyName": "Guernsey pound",
+        "symbol": "£",
+        "currencyISOCode": "GGP[G]",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "British pound[F]",
+        "countryLink": "/wiki/Pound_sterling",
+        "currencyName": "£",
+        "symbol": "GBP",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/23px-Flag_of_Guinea.svg.png",
+        "countryName": "Guinea",
+        "countryLink": "/wiki/Guinea",
+        "currencyName": "Guinean franc",
+        "symbol": "Fr",
+        "currencyISOCode": "GNF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/23px-Flag_of_Guinea-Bissau.svg.png",
+        "countryName": "Guinea-Bissau",
+        "countryLink": "/wiki/Guinea-Bissau",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/23px-Flag_of_Guyana.svg.png",
+        "countryName": "Guyana",
+        "countryLink": "/wiki/Guyana",
+        "currencyName": "Guyanese dollar",
+        "symbol": "$",
+        "currencyISOCode": "GYD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/23px-Flag_of_Haiti.svg.png",
+        "countryName": "Haiti",
+        "countryLink": "/wiki/Haiti",
+        "currencyName": "Haitian gourde",
+        "symbol": "G",
+        "currencyISOCode": "HTG",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/23px-Flag_of_Honduras.svg.png",
+        "countryName": "Honduras",
+        "countryLink": "/wiki/Honduras",
+        "currencyName": "Honduran lempira",
+        "symbol": "L",
+        "currencyISOCode": "HNL",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/23px-Flag_of_Hong_Kong.svg.png",
+        "countryName": "Hong Kong",
+        "countryLink": "/wiki/Hong_Kong",
+        "currencyName": "Hong Kong dollar",
+        "symbol": "$",
+        "currencyISOCode": "HKD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png",
+        "countryName": "Hungary",
+        "countryLink": "/wiki/Hungary",
+        "currencyName": "Hungarian forint",
+        "symbol": "Ft",
+        "currencyISOCode": "HUF",
+        "fractionalUnit": "Fillér",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/21px-Flag_of_Iceland.svg.png",
+        "countryName": "Iceland",
+        "countryLink": "/wiki/Iceland",
+        "currencyName": "Icelandic króna",
+        "symbol": "kr",
+        "currencyISOCode": "ISK",
+        "fractionalUnit": "Eyrir",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+        "countryName": "India",
+        "countryLink": "/wiki/India",
+        "currencyName": "Indian rupee",
+        "symbol": "₹",
+        "currencyISOCode": "INR",
+        "fractionalUnit": "Paisa",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png",
+        "countryName": "Indonesia",
+        "countryLink": "/wiki/Indonesia",
+        "currencyName": "Indonesian rupiah",
+        "symbol": "Rp",
+        "currencyISOCode": "IDR",
+        "fractionalUnit": "Sen",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png",
+        "countryName": "Iran",
+        "countryLink": "/wiki/Iran",
+        "currencyName": "Iranian rial",
+        "symbol": "﷼",
+        "currencyISOCode": "IRR",
+        "fractionalUnit": "Dinar",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/23px-Flag_of_Iraq.svg.png",
+        "countryName": "Iraq",
+        "countryLink": "/wiki/Iraq",
+        "currencyName": "Iraqi dinar",
+        "symbol": "ع.د",
+        "currencyISOCode": "IQD",
+        "fractionalUnit": "Fils",
+        "numberToBasic": "1000"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png",
+        "countryName": "Ireland",
+        "countryLink": "/wiki/Republic_of_Ireland",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_the_Isle_of_Man.svg/23px-Flag_of_the_Isle_of_Man.svg.png",
+        "countryName": "Isle of Man",
+        "countryLink": "/wiki/Isle_of_Man",
+        "currencyName": "Manx pound",
+        "symbol": "£",
+        "currencyISOCode": "IMP[G]",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "British pound[F]",
+        "countryLink": "/wiki/Pound_sterling",
+        "currencyName": "£",
+        "symbol": "GBP",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png",
+        "countryName": "Israel",
+        "countryLink": "/wiki/Israel",
+        "currencyName": "Israeli new shekel",
+        "symbol": "₪",
+        "currencyISOCode": "ILS",
+        "fractionalUnit": "Agora",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png",
+        "countryName": "Italy",
+        "countryLink": "/wiki/Italy",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/23px-Flag_of_Jamaica.svg.png",
+        "countryName": "Jamaica",
+        "countryLink": "/wiki/Jamaica",
+        "currencyName": "Jamaican dollar",
+        "symbol": "$",
+        "currencyISOCode": "JMD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png",
+        "countryName": "Japan",
+        "countryLink": "/wiki/Japan",
+        "currencyName": "Japanese yen",
+        "symbol": "¥",
+        "currencyISOCode": "JPY",
+        "fractionalUnit": "Sen[C]",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/23px-Flag_of_Jersey.svg.png",
+        "countryName": "Jersey",
+        "countryLink": "/wiki/Jersey",
+        "currencyName": "Jersey pound",
+        "symbol": "£",
+        "currencyISOCode": "JEP[G]",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "British pound[F]",
+        "countryLink": "/wiki/Pound_sterling",
+        "currencyName": "£",
+        "symbol": "GBP",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/23px-Flag_of_Jordan.svg.png",
+        "countryName": "Jordan",
+        "countryLink": "/wiki/Jordan",
+        "currencyName": "Jordanian dinar",
+        "symbol": "د.ا",
+        "currencyISOCode": "JOD",
+        "fractionalUnit": "Piastre[M]",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/23px-Flag_of_Kazakhstan.svg.png",
+        "countryName": "Kazakhstan",
+        "countryLink": "/wiki/Kazakhstan",
+        "currencyName": "Kazakhstani tenge",
+        "symbol": "₸",
+        "currencyISOCode": "KZT",
+        "fractionalUnit": "Tïın",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/23px-Flag_of_Kenya.svg.png",
+        "countryName": "Kenya",
+        "countryLink": "/wiki/Kenya",
+        "currencyName": "Kenyan shilling",
+        "symbol": "Sh",
+        "currencyISOCode": "KES",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/23px-Flag_of_Kiribati.svg.png",
+        "countryName": "Kiribati",
+        "countryLink": "/wiki/Kiribati",
+        "currencyName": "Kiribati dollar[E]",
+        "symbol": "$",
+        "currencyISOCode": "KID[G]",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Australian dollar",
+        "countryLink": "/wiki/Australian_dollar",
+        "currencyName": "$",
+        "symbol": "AUD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png",
+        "countryName": "Korea, North",
+        "countryLink": "/wiki/North_Korea",
+        "currencyName": "North Korean won",
+        "symbol": "₩",
+        "currencyISOCode": "KPW",
+        "fractionalUnit": "Chon",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png",
+        "countryName": "Korea, South",
+        "countryLink": "/wiki/South_Korea",
+        "currencyName": "South Korean won",
+        "symbol": "₩",
+        "currencyISOCode": "KRW",
+        "fractionalUnit": "Jeon",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/21px-Flag_of_Kosovo.svg.png",
+        "countryName": "Kosovo",
+        "countryLink": "/wiki/Kosovo",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/23px-Flag_of_Kuwait.svg.png",
+        "countryName": "Kuwait",
+        "countryLink": "/wiki/Kuwait",
+        "currencyName": "Kuwaiti dinar",
+        "symbol": "د.ك",
+        "currencyISOCode": "KWD",
+        "fractionalUnit": "Fils",
+        "numberToBasic": "1000"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/23px-Flag_of_Kyrgyzstan.svg.png",
+        "countryName": "Kyrgyzstan",
+        "countryLink": "/wiki/Kyrgyzstan",
+        "currencyName": "Kyrgyzstani som",
+        "symbol": "с",
+        "currencyISOCode": "KGS",
+        "fractionalUnit": "Tyiyn",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/23px-Flag_of_Laos.svg.png",
+        "countryName": "Laos",
+        "countryLink": "/wiki/Laos",
+        "currencyName": "Lao kip",
+        "symbol": "₭",
+        "currencyISOCode": "LAK",
+        "fractionalUnit": "Att",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/23px-Flag_of_Latvia.svg.png",
+        "countryName": "Latvia",
+        "countryLink": "/wiki/Latvia",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/23px-Flag_of_Lebanon.svg.png",
+        "countryName": "Lebanon",
+        "countryLink": "/wiki/Lebanon",
+        "currencyName": "Lebanese pound",
+        "symbol": "ل.ل",
+        "currencyISOCode": "LBP",
+        "fractionalUnit": "Piastre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/23px-Flag_of_Lesotho.svg.png",
+        "countryName": "Lesotho",
+        "countryLink": "/wiki/Lesotho",
+        "currencyName": "Lesotho loti",
+        "symbol": "L",
+        "currencyISOCode": "LSL",
+        "fractionalUnit": "Sente",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "South African rand",
+        "countryLink": "/wiki/South_African_rand",
+        "currencyName": "R",
+        "symbol": "ZAR",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/23px-Flag_of_Liberia.svg.png",
+        "countryName": "Liberia",
+        "countryLink": "/wiki/Liberia",
+        "currencyName": "Liberian dollar",
+        "symbol": "$",
+        "currencyISOCode": "LRD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/23px-Flag_of_Libya.svg.png",
+        "countryName": "Libya",
+        "countryLink": "/wiki/Libya",
+        "currencyName": "Libyan dinar",
+        "symbol": "ل.د",
+        "currencyISOCode": "LYD",
+        "fractionalUnit": "Dirham",
+        "numberToBasic": "1000"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/23px-Flag_of_Liechtenstein.svg.png",
+        "countryName": "Liechtenstein",
+        "countryLink": "/wiki/Liechtenstein",
+        "currencyName": "Swiss franc",
+        "symbol": "Fr",
+        "currencyISOCode": "CHF",
+        "fractionalUnit": "Rappen",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/23px-Flag_of_Lithuania.svg.png",
+        "countryName": "Lithuania",
+        "countryLink": "/wiki/Lithuania",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/23px-Flag_of_Luxembourg.svg.png",
+        "countryName": "Luxembourg",
+        "countryLink": "/wiki/Luxembourg",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/23px-Flag_of_Macau.svg.png",
+        "countryName": "Macau",
+        "countryLink": "/wiki/Macau",
+        "currencyName": "Macanese pataca",
+        "symbol": "P",
+        "currencyISOCode": "MOP",
+        "fractionalUnit": "Avo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/23px-Flag_of_Madagascar.svg.png",
+        "countryName": "Madagascar",
+        "countryLink": "/wiki/Madagascar",
+        "currencyName": "Malagasy ariary",
+        "symbol": "Ar",
+        "currencyISOCode": "MGA",
+        "fractionalUnit": "Iraimbilanja",
+        "numberToBasic": "5"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/23px-Flag_of_Malawi.svg.png",
+        "countryName": "Malawi",
+        "countryLink": "/wiki/Malawi",
+        "currencyName": "Malawian kwacha",
+        "symbol": "MK",
+        "currencyISOCode": "MWK",
+        "fractionalUnit": "Tambala",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/23px-Flag_of_Malaysia.svg.png",
+        "countryName": "Malaysia",
+        "countryLink": "/wiki/Malaysia",
+        "currencyName": "Malaysian ringgit",
+        "symbol": "RM",
+        "currencyISOCode": "MYR",
+        "fractionalUnit": "Sen",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/23px-Flag_of_Maldives.svg.png",
+        "countryName": "Maldives",
+        "countryLink": "/wiki/Maldives",
+        "currencyName": "Maldivian rufiyaa",
+        "symbol": ".ރ",
+        "currencyISOCode": "MVR",
+        "fractionalUnit": "Laari",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/23px-Flag_of_Mali.svg.png",
+        "countryName": "Mali",
+        "countryLink": "/wiki/Mali",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/23px-Flag_of_Malta.svg.png",
+        "countryName": "Malta",
+        "countryLink": "/wiki/Malta",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/23px-Flag_of_the_Marshall_Islands.svg.png",
+        "countryName": "Marshall Islands",
+        "countryLink": "/wiki/Marshall_Islands",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/23px-Flag_of_Mauritania.svg.png",
+        "countryName": "Mauritania",
+        "countryLink": "/wiki/Mauritania",
+        "currencyName": "Mauritanian ouguiya",
+        "symbol": "UM",
+        "currencyISOCode": "MRU",
+        "fractionalUnit": "Khoums",
+        "numberToBasic": "5"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/23px-Flag_of_Mauritius.svg.png",
+        "countryName": "Mauritius",
+        "countryLink": "/wiki/Mauritius",
+        "currencyName": "Mauritian rupee",
+        "symbol": "₨",
+        "currencyISOCode": "MUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/23px-Flag_of_Mexico.svg.png",
+        "countryName": "Mexico",
+        "countryLink": "/wiki/Mexico",
+        "currencyName": "Mexican peso",
+        "symbol": "$",
+        "currencyISOCode": "MXN",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/23px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+        "countryName": "Micronesia",
+        "countryLink": "/wiki/Federated_States_of_Micronesia",
+        "currencyName": "Micronesian dollar[E]",
+        "symbol": "$",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "United States dollar",
+        "countryLink": "/wiki/United_States_dollar",
+        "currencyName": "$",
+        "symbol": "USD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/23px-Flag_of_Moldova.svg.png",
+        "countryName": "Moldova",
+        "countryLink": "/wiki/Moldova",
+        "currencyName": "Moldovan leu",
+        "symbol": "L",
+        "currencyISOCode": "MDL",
+        "fractionalUnit": "Ban",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/19px-Flag_of_Monaco.svg.png",
+        "countryName": "Monaco",
+        "countryLink": "/wiki/Monaco",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/23px-Flag_of_Mongolia.svg.png",
+        "countryName": "Mongolia",
+        "countryLink": "/wiki/Mongolia",
+        "currencyName": "Mongolian tögrög",
+        "symbol": "₮",
+        "currencyISOCode": "MNT",
+        "fractionalUnit": "Möngö",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/23px-Flag_of_Montenegro.svg.png",
+        "countryName": "Montenegro",
+        "countryLink": "/wiki/Montenegro",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Montserrat.svg/23px-Flag_of_Montserrat.svg.png",
+        "countryName": "Montserrat",
+        "countryLink": "/wiki/Montserrat",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/23px-Flag_of_Morocco.svg.png",
+        "countryName": "Morocco",
+        "countryLink": "/wiki/Morocco",
+        "currencyName": "Moroccan dirham",
+        "symbol": "د.م.",
+        "currencyISOCode": "MAD",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/23px-Flag_of_Mozambique.svg.png",
+        "countryName": "Mozambique",
+        "countryLink": "/wiki/Mozambique",
+        "currencyName": "Mozambican metical",
+        "symbol": "MT",
+        "currencyISOCode": "MZN",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/23px-Flag_of_Myanmar.svg.png",
+        "countryName": "Myanmar",
+        "countryLink": "/wiki/Myanmar",
+        "currencyName": "Burmese kyat",
+        "symbol": "Ks",
+        "currencyISOCode": "MMK",
+        "fractionalUnit": "Pya",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/23px-Flag_of_Namibia.svg.png",
+        "countryName": "Namibia",
+        "countryLink": "/wiki/Namibia",
+        "currencyName": "Namibian dollar",
+        "symbol": "$",
+        "currencyISOCode": "NAD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "South African rand",
+        "countryLink": "/wiki/South_African_rand",
+        "currencyName": "R",
+        "symbol": "ZAR",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/23px-Flag_of_Nauru.svg.png",
+        "countryName": "Nauru",
+        "countryLink": "/wiki/Nauru",
+        "currencyName": "Australian dollar",
+        "symbol": "$",
+        "currencyISOCode": "AUD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Nauruan dollar[E]",
+        "countryLink": "#cite_note-commemorative-8",
+        "currencyName": "$",
+        "symbol": "(none)",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/16px-Flag_of_Nepal.svg.png",
+        "countryName": "Nepal",
+        "countryLink": "/wiki/Nepal",
+        "currencyName": "Nepalese rupee",
+        "symbol": "₨",
+        "currencyISOCode": "NPR",
+        "fractionalUnit": "Paisa",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Indian rupee",
+        "countryLink": "/wiki/Indian_rupee",
+        "currencyName": "₹",
+        "symbol": "INR",
+        "currencyISOCode": "Paisa",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png",
+        "countryName": "Netherlands[H]",
+        "countryLink": "/wiki/Netherlands",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_FLNKS.svg/23px-Flag_of_FLNKS.svg.png",
+        "countryName": "New Caledonia",
+        "countryLink": "/wiki/New_Caledonia",
+        "currencyName": "CFP franc",
+        "symbol": "₣",
+        "currencyISOCode": "XPF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/23px-Flag_of_New_Zealand.svg.png",
+        "countryName": "New Zealand",
+        "countryLink": "/wiki/New_Zealand",
+        "currencyName": "New Zealand dollar",
+        "symbol": "$",
+        "currencyISOCode": "NZD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/23px-Flag_of_Nicaragua.svg.png",
+        "countryName": "Nicaragua",
+        "countryLink": "/wiki/Nicaragua",
+        "currencyName": "Nicaraguan córdoba",
+        "symbol": "C$",
+        "currencyISOCode": "NIO",
+        "fractionalUnit": "Centavo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/18px-Flag_of_Niger.svg.png",
+        "countryName": "Niger",
+        "countryLink": "/wiki/Niger",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+        "countryName": "Nigeria",
+        "countryLink": "/wiki/Nigeria",
+        "currencyName": "Nigerian naira",
+        "symbol": "₦",
+        "currencyISOCode": "NGN",
+        "fractionalUnit": "Kobo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/23px-Flag_of_Niue.svg.png",
+        "countryName": "Niue",
+        "countryLink": "/wiki/Niue",
+        "currencyName": "New Zealand dollar",
+        "symbol": "$",
+        "currencyISOCode": "NZD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Niue dollar[E]",
+        "countryLink": "/wiki/Niue_dollar",
+        "currencyName": "$",
+        "symbol": "(none)",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/23px-Flag_of_North_Macedonia.svg.png",
+        "countryName": "North Macedonia",
+        "countryLink": "/wiki/North_Macedonia",
+        "currencyName": "Macedonian denar",
+        "symbol": "ден",
+        "currencyISOCode": "MKD",
+        "fractionalUnit": "Deni",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/23px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png",
+        "countryName": "Northern Cyprus",
+        "countryLink": "/wiki/Northern_Cyprus",
+        "currencyName": "Turkish lira",
+        "symbol": "₺",
+        "currencyISOCode": "TRY",
+        "fractionalUnit": "Kuruş",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/21px-Flag_of_Norway.svg.png",
+        "countryName": "Norway",
+        "countryLink": "/wiki/Norway",
+        "currencyName": "Norwegian krone",
+        "symbol": "kr",
+        "currencyISOCode": "NOK",
+        "fractionalUnit": "Øre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/23px-Flag_of_Oman.svg.png",
+        "countryName": "Oman",
+        "countryLink": "/wiki/Oman",
+        "currencyName": "Omani rial",
+        "symbol": "ر.ع.",
+        "currencyISOCode": "OMR",
+        "fractionalUnit": "Baisa",
+        "numberToBasic": "1000"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+        "countryName": "Pakistan",
+        "countryLink": "/wiki/Pakistan",
+        "currencyName": "Pakistani rupee",
+        "symbol": "₨",
+        "currencyISOCode": "PKR",
+        "fractionalUnit": "Paisa",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/23px-Flag_of_Palau.svg.png",
+        "countryName": "Palau",
+        "countryLink": "/wiki/Palau",
+        "currencyName": "Palauan dollar[E]",
+        "symbol": "$",
+        "currencyISOCode": "(none)",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "United States dollar",
+        "countryLink": "/wiki/United_States_dollar",
+        "currencyName": "$",
+        "symbol": "USD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/23px-Flag_of_Palestine.svg.png",
+        "countryName": "Palestine",
+        "countryLink": "/wiki/State_of_Palestine",
+        "currencyName": "Israeli new shekel",
+        "symbol": "₪",
+        "currencyISOCode": "ILS",
+        "fractionalUnit": "Agora",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Jordanian dinar",
+        "countryLink": "/wiki/Jordanian_dinar",
+        "currencyName": "د.ا",
+        "symbol": "JOD",
+        "currencyISOCode": "Piastre[M]",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/23px-Flag_of_Panama.svg.png",
+        "countryName": "Panama",
+        "countryLink": "/wiki/Panama",
+        "currencyName": "Panamanian balboa",
+        "symbol": "B/.",
+        "currencyISOCode": "PAB",
+        "fractionalUnit": "Centésimo",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "United States dollar",
+        "countryLink": "/wiki/United_States_dollar",
+        "currencyName": "$",
+        "symbol": "USD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/20px-Flag_of_Papua_New_Guinea.svg.png",
+        "countryName": "Papua New Guinea",
+        "countryLink": "/wiki/Papua_New_Guinea",
+        "currencyName": "Papua New Guinean kina",
+        "symbol": "K",
+        "currencyISOCode": "PGK",
+        "fractionalUnit": "Toea",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/23px-Flag_of_Paraguay.svg.png",
+        "countryName": "Paraguay",
+        "countryLink": "/wiki/Paraguay",
+        "currencyName": "Paraguayan guaraní",
+        "symbol": "₲",
+        "currencyISOCode": "PYG",
+        "fractionalUnit": "Céntimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/23px-Flag_of_Peru.svg.png",
+        "countryName": "Peru",
+        "countryLink": "/wiki/Peru",
+        "currencyName": "Peruvian sol",
+        "symbol": "S/.",
+        "currencyISOCode": "PEN",
+        "fractionalUnit": "Céntimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/23px-Flag_of_the_Philippines.svg.png",
+        "countryName": "Philippines",
+        "countryLink": "/wiki/Philippines",
+        "currencyName": "Philippine peso",
+        "symbol": "₱",
+        "currencyISOCode": "PHP",
+        "fractionalUnit": "Sentimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_the_Pitcairn_Islands.svg/23px-Flag_of_the_Pitcairn_Islands.svg.png",
+        "countryName": "Pitcairn Islands",
+        "countryLink": "/wiki/Pitcairn_Islands",
+        "currencyName": "New Zealand dollar",
+        "symbol": "$",
+        "currencyISOCode": "NZD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Pitcairn Islands dollar[E]",
+        "countryLink": "/wiki/Pitcairn_Islands_dollar",
+        "currencyName": "$",
+        "symbol": "(none)",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png",
+        "countryName": "Poland",
+        "countryLink": "/wiki/Poland",
+        "currencyName": "Polish złoty",
+        "symbol": "zł",
+        "currencyISOCode": "PLN",
+        "fractionalUnit": "Grosz",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/23px-Flag_of_Portugal.svg.png",
+        "countryName": "Portugal",
+        "countryLink": "/wiki/Portugal",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/23px-Flag_of_Qatar.svg.png",
+        "countryName": "Qatar",
+        "countryLink": "/wiki/Qatar",
+        "currencyName": "Qatari riyal",
+        "symbol": "ر.ق",
+        "currencyISOCode": "QAR",
+        "fractionalUnit": "Dirham",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/23px-Flag_of_Romania.svg.png",
+        "countryName": "Romania",
+        "countryLink": "/wiki/Romania",
+        "currencyName": "Romanian leu",
+        "symbol": "lei",
+        "currencyISOCode": "RON",
+        "fractionalUnit": "Ban",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+        "countryName": "Russia",
+        "countryLink": "/wiki/Russia",
+        "currencyName": "Russian ruble",
+        "symbol": "₽",
+        "currencyISOCode": "RUB",
+        "fractionalUnit": "Kopek",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/23px-Flag_of_Rwanda.svg.png",
+        "countryName": "Rwanda",
+        "countryLink": "/wiki/Rwanda",
+        "currencyName": "Rwandan franc",
+        "symbol": "Fr",
+        "currencyISOCode": "RWF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_Saba.svg/23px-Flag_of_Saba.svg.png",
+        "countryName": "Saba",
+        "countryLink": "/wiki/Saba",
+        "currencyName": "United States dollar[H]",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/23px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+        "countryName": "Sahrawi Republic[N]",
+        "countryLink": "/wiki/Sahrawi_Arab_Democratic_Republic",
+        "currencyName": "Algerian dinar",
+        "symbol": "د.ج",
+        "currencyISOCode": "DZD",
+        "fractionalUnit": "Santeem",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Mauritanian ouguiya",
+        "countryLink": "/wiki/Mauritanian_ouguiya",
+        "currencyName": "UM",
+        "symbol": "MRU",
+        "currencyISOCode": "Khoums",
+        "fractionalUnit": "5",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Moroccan dirham",
+        "countryLink": "/wiki/Moroccan_dirham",
+        "currencyName": "د. م.",
+        "symbol": "MAD",
+        "currencyISOCode": "Centime",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Sahrawi peseta",
+        "countryLink": "/wiki/Sahrawi_peseta",
+        "currencyName": "₧ or Ptas",
+        "symbol": "(none)",
+        "currencyISOCode": "Centime",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Saint_Helena.svg/23px-Flag_of_Saint_Helena.svg.png",
+        "countryName": "Saint Helena",
+        "countryLink": "/wiki/Saint_Helena",
+        "currencyName": "Saint Helena pound",
+        "symbol": "£",
+        "currencyISOCode": "SHP",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/23px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+        "countryName": "Saint Kitts and Nevis",
+        "countryLink": "/wiki/Saint_Kitts_and_Nevis",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/23px-Flag_of_Saint_Lucia.svg.png",
+        "countryName": "Saint Lucia",
+        "countryLink": "/wiki/Saint_Lucia",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/23px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+        "countryName": "Saint Vincent and the Grenadines",
+        "countryLink": "/wiki/Saint_Vincent_and_the_Grenadines",
+        "currencyName": "Eastern Caribbean dollar",
+        "symbol": "$",
+        "currencyISOCode": "XCD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/23px-Flag_of_Samoa.svg.png",
+        "countryName": "Samoa",
+        "countryLink": "/wiki/Samoa",
+        "currencyName": "Samoan tālā",
+        "symbol": "T",
+        "currencyISOCode": "WST",
+        "fractionalUnit": "Sene",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/20px-Flag_of_San_Marino.svg.png",
+        "countryName": "San Marino",
+        "countryLink": "/wiki/San_Marino",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/23px-Flag_of_Sao_Tome_and_Principe.svg.png",
+        "countryName": "São Tomé and Príncipe",
+        "countryLink": "/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+        "currencyName": "São Tomé and Príncipe dobra",
+        "symbol": "Db",
+        "currencyISOCode": "STN",
+        "fractionalUnit": "Cêntimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png",
+        "countryName": "Saudi Arabia",
+        "countryLink": "/wiki/Saudi_Arabia",
+        "currencyName": "Saudi riyal",
+        "symbol": "ر.س",
+        "currencyISOCode": "SAR",
+        "fractionalUnit": "Halala",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/23px-Flag_of_Senegal.svg.png",
+        "countryName": "Senegal",
+        "countryLink": "/wiki/Senegal",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/23px-Flag_of_Serbia.svg.png",
+        "countryName": "Serbia",
+        "countryLink": "/wiki/Serbia",
+        "currencyName": "Serbian dinar",
+        "symbol": "дин. or din.",
+        "currencyISOCode": "RSD",
+        "fractionalUnit": "Para",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/23px-Flag_of_Seychelles.svg.png",
+        "countryName": "Seychelles",
+        "countryLink": "/wiki/Seychelles",
+        "currencyName": "Seychellois rupee",
+        "symbol": "₨",
+        "currencyISOCode": "SCR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/23px-Flag_of_Sierra_Leone.svg.png",
+        "countryName": "Sierra Leone",
+        "countryLink": "/wiki/Sierra_Leone",
+        "currencyName": "Sierra Leonean leone",
+        "symbol": "Le",
+        "currencyISOCode": "SLL",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png",
+        "countryName": "Singapore",
+        "countryLink": "/wiki/Singapore",
+        "currencyName": "Brunei dollar",
+        "symbol": "$",
+        "currencyISOCode": "BND",
+        "fractionalUnit": "Sen",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Singapore dollar",
+        "countryLink": "/wiki/Singapore_dollar",
+        "currencyName": "$",
+        "symbol": "SGD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Sint_Eustatius.svg/23px-Flag_of_Sint_Eustatius.svg.png",
+        "countryName": "Sint Eustatius",
+        "countryLink": "/wiki/Sint_Eustatius",
+        "currencyName": "United States dollar[H]",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Sint_Maarten.svg/23px-Flag_of_Sint_Maarten.svg.png",
+        "countryName": "Sint Maarten",
+        "countryLink": "/wiki/Sint_Maarten",
+        "currencyName": "Netherlands Antillean guilder",
+        "symbol": "ƒ",
+        "currencyISOCode": "ANG",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/23px-Flag_of_Slovakia.svg.png",
+        "countryName": "Slovakia",
+        "countryLink": "/wiki/Slovakia",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/23px-Flag_of_Slovenia.svg.png",
+        "countryName": "Slovenia",
+        "countryLink": "/wiki/Slovenia",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/23px-Flag_of_the_Solomon_Islands.svg.png",
+        "countryName": "Solomon Islands",
+        "countryLink": "/wiki/Solomon_Islands",
+        "currencyName": "Solomon Islands dollar",
+        "symbol": "$",
+        "currencyISOCode": "SBD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/23px-Flag_of_Somalia.svg.png",
+        "countryName": "Somalia",
+        "countryLink": "/wiki/Somalia",
+        "currencyName": "Somali shilling",
+        "symbol": "Sh",
+        "currencyISOCode": "SOS",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/23px-Flag_of_Somaliland.svg.png",
+        "countryName": "Somaliland",
+        "countryLink": "/wiki/Somaliland",
+        "currencyName": "Somaliland shilling",
+        "symbol": "Sl",
+        "currencyISOCode": "SLS[G]",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png",
+        "countryName": "South Africa",
+        "countryLink": "/wiki/South_Africa",
+        "currencyName": "South African rand",
+        "symbol": "R",
+        "currencyISOCode": "ZAR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg/23px-Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg.png",
+        "countryName": "South Georgia and the South Sandwich Islands",
+        "countryLink": "/wiki/South_Georgia_and_the_South_Sandwich_Islands",
+        "currencyName": "British pound",
+        "symbol": "£",
+        "currencyISOCode": "GBP",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "South Georgia and the South Sandwich Islands pound[E]",
+        "countryLink": "#cite_note-commemorative-8",
+        "currencyName": "£",
+        "symbol": "(none)",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/23px-Flag_of_South_Ossetia.svg.png",
+        "countryName": "South Ossetia",
+        "countryLink": "/wiki/South_Ossetia",
+        "currencyName": "Russian ruble",
+        "symbol": "₽",
+        "currencyISOCode": "RUB",
+        "fractionalUnit": "Kopek",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png",
+        "countryName": "Spain",
+        "countryLink": "/wiki/Spain",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/23px-Flag_of_South_Sudan.svg.png",
+        "countryName": "South Sudan",
+        "countryLink": "/wiki/South_Sudan",
+        "currencyName": "South Sudanese pound",
+        "symbol": "£",
+        "currencyISOCode": "SSP",
+        "fractionalUnit": "Piastre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/23px-Flag_of_Sri_Lanka.svg.png",
+        "countryName": "Sri Lanka",
+        "countryLink": "/wiki/Sri_Lanka",
+        "currencyName": "Sri Lankan rupee",
+        "symbol": "Rs  රු  or  ரூ",
+        "currencyISOCode": "LKR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/23px-Flag_of_Sudan.svg.png",
+        "countryName": "Sudan",
+        "countryLink": "/wiki/Sudan",
+        "currencyName": "Sudanese pound",
+        "symbol": "ج.س.",
+        "currencyISOCode": "SDG",
+        "fractionalUnit": "Piastre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/23px-Flag_of_Suriname.svg.png",
+        "countryName": "Suriname",
+        "countryLink": "/wiki/Suriname",
+        "currencyName": "Surinamese dollar",
+        "symbol": "$",
+        "currencyISOCode": "SRD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png",
+        "countryName": "Sweden",
+        "countryLink": "/wiki/Sweden",
+        "currencyName": "Swedish krona",
+        "symbol": "kr",
+        "currencyISOCode": "SEK",
+        "fractionalUnit": "Öre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png",
+        "countryName": "Switzerland",
+        "countryLink": "/wiki/Switzerland",
+        "currencyName": "Swiss franc",
+        "symbol": "Fr",
+        "currencyISOCode": "CHF",
+        "fractionalUnit": "Rappen[O]",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/23px-Flag_of_Syria.svg.png",
+        "countryName": "Syria",
+        "countryLink": "/wiki/Syria",
+        "currencyName": "Syrian pound",
+        "symbol": "£ or ل.س",
+        "currencyISOCode": "SYP",
+        "fractionalUnit": "Piastre",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png",
+        "countryName": "Taiwan",
+        "countryLink": "/wiki/Taiwan",
+        "currencyName": "New Taiwan dollar",
+        "symbol": "$",
+        "currencyISOCode": "TWD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/23px-Flag_of_Tajikistan.svg.png",
+        "countryName": "Tajikistan",
+        "countryLink": "/wiki/Tajikistan",
+        "currencyName": "Tajikistani somoni",
+        "symbol": "ЅМ",
+        "currencyISOCode": "TJS",
+        "fractionalUnit": "Diram",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/23px-Flag_of_Tanzania.svg.png",
+        "countryName": "Tanzania",
+        "countryLink": "/wiki/Tanzania",
+        "currencyName": "Tanzanian shilling",
+        "symbol": "Sh",
+        "currencyISOCode": "TZS",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/23px-Flag_of_Thailand.svg.png",
+        "countryName": "Thailand",
+        "countryLink": "/wiki/Thailand",
+        "currencyName": "Thai baht",
+        "symbol": "฿",
+        "currencyISOCode": "THB",
+        "fractionalUnit": "Satang",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/23px-Flag_of_Togo.svg.png",
+        "countryName": "Togo",
+        "countryLink": "/wiki/Togo",
+        "currencyName": "West African CFA franc",
+        "symbol": "Fr",
+        "currencyISOCode": "XOF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/23px-Flag_of_Tonga.svg.png",
+        "countryName": "Tonga",
+        "countryLink": "/wiki/Tonga",
+        "currencyName": "Tongan paʻanga[P]",
+        "symbol": "T$",
+        "currencyISOCode": "TOP",
+        "fractionalUnit": "Seniti",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/5/58/Flag_of_Transnistria.svg/23px-Flag_of_Transnistria.svg.png",
+        "countryName": "Transnistria",
+        "countryLink": "/wiki/Transnistria",
+        "currencyName": "Transnistrian ruble",
+        "symbol": "р.",
+        "currencyISOCode": "PRB[G]",
+        "fractionalUnit": "Kopek",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/23px-Flag_of_Trinidad_and_Tobago.svg.png",
+        "countryName": "Trinidad and Tobago",
+        "countryLink": "/wiki/Trinidad_and_Tobago",
+        "currencyName": "Trinidad and Tobago dollar",
+        "symbol": "$",
+        "currencyISOCode": "TTD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Tristan_da_Cunha.svg/23px-Flag_of_Tristan_da_Cunha.svg.png",
+        "countryName": "Tristan da Cunha",
+        "countryLink": "/wiki/Tristan_da_Cunha",
+        "currencyName": "Saint Helena pound",
+        "symbol": "£",
+        "currencyISOCode": "SHP",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Tristan da Cunha pound[E]",
+        "countryLink": "#cite_note-commemorative-8",
+        "currencyName": "£",
+        "symbol": "(none)",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/23px-Flag_of_Tunisia.svg.png",
+        "countryName": "Tunisia",
+        "countryLink": "/wiki/Tunisia",
+        "currencyName": "Tunisian dinar",
+        "symbol": "د.ت",
+        "currencyISOCode": "TND",
+        "fractionalUnit": "Millime",
+        "numberToBasic": "1000"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+        "countryName": "Turkey",
+        "countryLink": "/wiki/Turkey",
+        "currencyName": "Turkish lira",
+        "symbol": "₺",
+        "currencyISOCode": "TRY",
+        "fractionalUnit": "Kuruş",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/23px-Flag_of_Turkmenistan.svg.png",
+        "countryName": "Turkmenistan",
+        "countryLink": "/wiki/Turkmenistan",
+        "currencyName": "Turkmenistan manat",
+        "symbol": "m",
+        "currencyISOCode": "TMT",
+        "fractionalUnit": "Tennesi",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/23px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+        "countryName": "Turks and Caicos Islands",
+        "countryLink": "/wiki/Turks_and_Caicos_Islands",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/23px-Flag_of_Tuvalu.svg.png",
+        "countryName": "Tuvalu",
+        "countryLink": "/wiki/Tuvalu",
+        "currencyName": "Tuvaluan dollar",
+        "symbol": "$",
+        "currencyISOCode": "TVD[G]",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Australian dollar",
+        "countryLink": "/wiki/Australian_dollar",
+        "currencyName": "$",
+        "symbol": "AUD",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/23px-Flag_of_Uganda.svg.png",
+        "countryName": "Uganda",
+        "countryLink": "/wiki/Uganda",
+        "currencyName": "Ugandan shilling",
+        "symbol": "Sh",
+        "currencyISOCode": "UGX",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png",
+        "countryName": "Ukraine",
+        "countryLink": "/wiki/Ukraine",
+        "currencyName": "Ukrainian hryvnia",
+        "symbol": "₴",
+        "currencyISOCode": "UAH",
+        "fractionalUnit": "Kopiyka",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "Russian ruble[Q][5]",
+        "countryLink": "/wiki/Russian_ruble",
+        "currencyName": "₽",
+        "symbol": "RUB",
+        "currencyISOCode": "Kopek",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/23px-Flag_of_the_United_Arab_Emirates.svg.png",
+        "countryName": "United Arab Emirates",
+        "countryLink": "/wiki/United_Arab_Emirates",
+        "currencyName": "United Arab Emirates dirham",
+        "symbol": "د.إ",
+        "currencyISOCode": "AED",
+        "fractionalUnit": "Fils",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png",
+        "countryName": "United Kingdom",
+        "countryLink": "/wiki/United_Kingdom",
+        "currencyName": "British pound[F]",
+        "symbol": "£",
+        "currencyISOCode": "GBP",
+        "fractionalUnit": "Penny",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png",
+        "countryName": "United States",
+        "countryLink": "/wiki/United_States",
+        "currencyName": "United States dollar",
+        "symbol": "$",
+        "currencyISOCode": "USD",
+        "fractionalUnit": "Cent[A]",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png",
+        "countryName": "Uruguay",
+        "countryLink": "/wiki/Uruguay",
+        "currencyName": "Uruguayan peso",
+        "symbol": "$",
+        "currencyISOCode": "UYU",
+        "fractionalUnit": "Centésimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/23px-Flag_of_Uzbekistan.svg.png",
+        "countryName": "Uzbekistan",
+        "countryLink": "/wiki/Uzbekistan",
+        "currencyName": "Uzbekistani soʻm",
+        "symbol": "so'm or сўм",
+        "currencyISOCode": "UZS",
+        "fractionalUnit": "Tiyin",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/23px-Flag_of_Vanuatu.svg.png",
+        "countryName": "Vanuatu",
+        "countryLink": "/wiki/Vanuatu",
+        "currencyName": "Vanuatu vatu",
+        "symbol": "Vt",
+        "currencyISOCode": "VUV",
+        "fractionalUnit": "(none)",
+        "numberToBasic": "(none)"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/16px-Flag_of_the_Vatican_City.svg.png",
+        "countryName": "Vatican City",
+        "countryLink": "/wiki/Vatican_City",
+        "currencyName": "Euro",
+        "symbol": "€",
+        "currencyISOCode": "EUR",
+        "fractionalUnit": "Cent",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/23px-Flag_of_Venezuela.svg.png",
+        "countryName": "Venezuela",
+        "countryLink": "/wiki/Venezuela",
+        "currencyName": "Venezuelan bolívar soberano",
+        "symbol": "Bs.S. or Bs.",
+        "currencyISOCode": "VES",
+        "fractionalUnit": "Céntimo",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/23px-Flag_of_Vietnam.svg.png",
+        "countryName": "Vietnam",
+        "countryLink": "/wiki/Vietnam",
+        "currencyName": "Vietnamese đồng",
+        "symbol": "₫",
+        "currencyISOCode": "VND",
+        "fractionalUnit": "Hào[R]",
+        "numberToBasic": "10"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png",
+        "countryName": "Wallis and Futuna",
+        "countryLink": "/wiki/Wallis_and_Futuna",
+        "currencyName": "CFP franc",
+        "symbol": "₣",
+        "currencyISOCode": "XPF",
+        "fractionalUnit": "Centime",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/23px-Flag_of_Yemen.svg.png",
+        "countryName": "Yemen",
+        "countryLink": "/wiki/Yemen",
+        "currencyName": "Yemeni rial",
+        "symbol": "﷼",
+        "currencyISOCode": "YER",
+        "fractionalUnit": "Fils",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/23px-Flag_of_Zambia.svg.png",
+        "countryName": "Zambia",
+        "countryLink": "/wiki/Zambia",
+        "currencyName": "Zambian kwacha",
+        "symbol": "ZK",
+        "currencyISOCode": "ZMW",
+        "fractionalUnit": "Ngwee",
+        "numberToBasic": "100"
+    },
+    {
+        "flagicon": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/23px-Flag_of_Zimbabwe.svg.png",
+        "countryName": "Zimbabwe[S]",
+        "countryLink": "/wiki/Zimbabwe",
+        "currencyName": "Botswana pula",
+        "symbol": "P",
+        "currencyISOCode": "BWP",
+        "fractionalUnit": "Thebe",
+        "numberToBasic": "100"
+    },
+    {
+        "countryName": "British pound[F]",
+        "countryLink": "/wiki/Pound_sterling",
+        "currencyName": "£",
+        "symbol": "GBP",
+        "currencyISOCode": "Penny",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Chinese yuan",
+        "countryLink": "/wiki/Renminbi",
+        "currencyName": "¥ or 元",
+        "symbol": "CNY",
+        "currencyISOCode": "Fen[J]",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Euro",
+        "countryLink": "/wiki/Euro",
+        "currencyName": "€",
+        "symbol": "EUR",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Indian rupee",
+        "countryLink": "/wiki/Indian_rupee",
+        "currencyName": "₹",
+        "symbol": "INR",
+        "currencyISOCode": "Paisa",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Japanese yen",
+        "countryLink": "/wiki/Japanese_yen",
+        "currencyName": "¥",
+        "symbol": "JPY",
+        "currencyISOCode": "Sen[C]",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "South African rand",
+        "countryLink": "/wiki/South_African_rand",
+        "currencyName": "Rs",
+        "symbol": "ZAR",
+        "currencyISOCode": "Cent",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "United States dollar",
+        "countryLink": "/wiki/United_States_dollar",
+        "currencyName": "$",
+        "symbol": "USD",
+        "currencyISOCode": "Cent[A]",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    },
+    {
+        "countryName": "Zimbabwean bonds",
+        "countryLink": "/wiki/Zimbabwean_bonds",
+        "currencyName": "$",
+        "symbol": "ZWB[G]",
+        "currencyISOCode": "Cent[K]",
+        "fractionalUnit": "100",
+        "numberToBasic": ""
+    }
+]
