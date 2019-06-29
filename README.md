@@ -1,4 +1,4 @@
-Node.js ISO scrappers
+Node.js ISO scrapers
 ====================
 **Scraps ISO3166 and ISO4717 data to JSON using only Node.js**
 

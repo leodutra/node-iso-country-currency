@@ -1,14 +1,14 @@
 
-const ISO3361CountryScrapper = require('./lib/ISO3361CountryScrapper')
-const ISO4717CurrencyScrapper = require('./lib/ISO4717CurrencyScrapper')
+const ISO3361CountryScraper = require('./lib/ISO3361CountryScraper')
+const ISO4717CurrencyScraper = require('./lib/ISO4717CurrencyScraper')
 const ISO4717_Into_ISO3361 = require('./lib/mergers/ISO4717_Into_ISO3361')
-const WikipediaScrapper = require('./lib/WikipediaScrapper')
+const WikipediaScraper = require('./lib/WikipediaScraper')
 
 const { writeFileAsync } = require('./lib/utils')
 
 async function main() {
 
-	console.log('Scrapping started')
+	console.log('Scraping started')
 
 	const [
 		{ currencyListEn, currencyListPt },
@@ -43,10 +43,10 @@ async function scrap_ISO4717_into_ISO3361() {
 }
 
 async function scrapISO3361() {
-	console.log("\nISO-3361 scrapping started...")
+	console.log("\nISO-3361 scraping started...")
 	const t = Date.now()
-	const data = await ISO3361CountryScrapper.scrapRemoteData()
-	console.log("\nSuccessful ISO-3361 scrapping.")
+	const data = await ISO3361CountryScraper.scrapRemoteData()
+	console.log("\nSuccessful ISO-3361 scraping.")
 	await writeFileAsync("ISO-3361.json", JSON.stringify(data, null, 4))
 	console.log("Successful ISO-3361 write.")
 	console.log('--- elapsed ---', Date.now() - t)
@@ -54,27 +54,27 @@ async function scrapISO3361() {
 }
 
 async function scrapISO4717() {
-	console.log("\nISO-4717 scrapping started...")
-	const data = await ISO4717CurrencyScrapper.scrapRemoteData()
-	console.log("\nSuccessful ISO-4717 scrapping.")
+	console.log("\nISO-4717 scraping started...")
+	const data = await ISO4717CurrencyScraper.scrapRemoteData()
+	console.log("\nSuccessful ISO-4717 scraping.")
 	await writeFileAsync("ISO-4717.json", JSON.stringify(data, null, 4))
 	console.log("Successful ISO-4717 write.")
 	return data
 }
 
 async function scrapCurrencyListEn() {
-	console.log("\nCurrency list (English) scrapping started...")
-	const data = await WikipediaScrapper.scrapCurrencyListEn()
-	console.log("\nSuccessful Currency list (English) scrapping.")
+	console.log("\nCurrency list (English) scraping started...")
+	const data = await WikipediaScraper.scrapCurrencyListEn()
+	console.log("\nSuccessful Currency list (English) scraping.")
 	await writeFileAsync("wikipedia-currency-list-en.json", JSON.stringify(data, null, 4))
 	console.log("Successful Currency list (English) write.")
 	return data
 }
 
 async function scrapCurrencyListPt() {
-	console.log("\nCurrency list (Portuguese) scrapping started...")
-	const data = await WikipediaScrapper.scrapCurrencyListPt()
-	console.log("\nSuccessful Currency list (Portuguese) scrapping.")
+	console.log("\nCurrency list (Portuguese) scraping started...")
+	const data = await WikipediaScraper.scrapCurrencyListPt()
+	console.log("\nSuccessful Currency list (Portuguese) scraping.")
 	await writeFileAsync("wikipedia-currency-list-pt.json", JSON.stringify(data, null, 4))
 	console.log("Successful Currency list (Portuguese) write.")
 	return data
