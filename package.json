@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.3",
     "cheerio-tableparser": "^1.0.1",
     "cli-progress": "^2.1.1",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "promises-progress": "^1.0.3"
   }
 }
